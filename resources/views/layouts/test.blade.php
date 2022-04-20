@@ -436,7 +436,7 @@ var feedify = feedify || {};
         <div class="new-lead-news">
           <a href="https://www.ekusheysangbad.com/national/news/343531">
             <div class="new-lead-news-image">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-17-20220221125639-20220226023005-20220301061049.jpg" class="img-fluid" alt="বিমা নিয়ে হয়রানি বন্ধ করতে হবে-প্রধানমন্ত্রী" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-17-20220221125639-20220226023005-20220301061049.jpg" class="img-fluid" alt="বিমা নিয়ে হয়রানি বন্ধ করতে হবে-প্রধানমন্ত্রী" />
             </div>
             <div class="new-lead-news-heading">
             
@@ -462,7 +462,7 @@ var feedify = feedify || {};
           <div class="lead-news-other">
             <a href="https://www.ekusheysangbad.com/international/news/343519">
               <div class="lead-news-other-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301024709.jpg" class="img-fluid" alt="কিয়েভ ও খেরসন শহরে ফের হামলা শুরু করেছে রাশিয়া" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301024709.jpg" class="img-fluid" alt="কিয়েভ ও খেরসন শহরে ফের হামলা শুরু করেছে রাশিয়া" />
               </div>
               <div class="lead-news-other-heading">
               
@@ -483,7 +483,7 @@ var feedify = feedify || {};
           <div class="lead-news-other">
             <a href="https://www.ekusheysangbad.com/national/news/343515">
               <div class="lead-news-other-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/SP1646051053-20220301014324.jpg" class="img-fluid" alt="অগ্নিঝরা মার্চ শুরু" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/SP1646051053-20220301014324.jpg" class="img-fluid" alt="অগ্নিঝরা মার্চ শুরু" />
               </div>
               <div class="lead-news-other-heading">
               
@@ -512,7 +512,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/sports/news/343516">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fifa-uefa-20220301023645.jpg" class="img-fluid" alt="রাশিয়ার জাতীয় দল ও সব ক্লাবকে নিষিদ্ধ করল ফিফা-উয়েফা " />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fifa-uefa-20220301023645.jpg" class="img-fluid" alt="রাশিয়ার জাতীয় দল ও সব ক্লাবকে নিষিদ্ধ করল ফিফা-উয়েফা " />
               </div>
               <div class="lead-news-second-heading">
               
@@ -533,7 +533,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/sports/news/343538">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301071150.jpg" class="img-fluid" alt="১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি " />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301071150.jpg" class="img-fluid" alt="১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি " />
               </div>
               <div class="lead-news-second-heading">
               
@@ -554,7 +554,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/international/news/343521">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025400.jpg" class="img-fluid" alt="ছবিতে ৪০ মাইল দীর্ঘ রুশ সেনাবহর" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025400.jpg" class="img-fluid" alt="ছবিতে ৪০ মাইল দীর্ঘ রুশ সেনাবহর" />
               </div>
               <div class="lead-news-second-heading">
               
@@ -575,7 +575,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/international/news/343514">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/8b2fe446edf603190eb269b0dafb905e007849cb77f70e60copy725x400-20220228182249.jpg" class="img-fluid" alt="রুশ-ইউক্রেন বৈঠকে যে সিদ্ধান্ত এল" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/8b2fe446edf603190eb269b0dafb905e007849cb77f70e60copy725x400-20220228182249.jpg" class="img-fluid" alt="রুশ-ইউক্রেন বৈঠকে যে সিদ্ধান্ত এল" />
               </div>
               <div class="lead-news-second-heading">
               
@@ -596,7 +596,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/international/news/343526">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1646চ৬জ3-20220301040709.jpg" class="img-fluid" alt="বিশ্বে করোনায় আরও ৫ হাজারের বেশি মৃত্যু" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1646চ৬জ3-20220301040709.jpg" class="img-fluid" alt="বিশ্বে করোনায় আরও ৫ হাজারের বেশি মৃত্যু" />
               </div>
               <div class="lead-news-second-heading">
               
@@ -617,7 +617,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/sports/news/343539">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
               </div>
               <div class="lead-news-second-heading">
               
@@ -638,7 +638,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/international/news/343533">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061729.jpg" class="img-fluid" alt="রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061729.jpg" class="img-fluid" alt="রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার" />
               </div>
               <div class="lead-news-second-heading">
               
@@ -659,7 +659,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/national/news/343517">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220217105426-20220301024008.jpg" class="img-fluid" alt="ফরিদপুরের বরকত-রুবেলের আইনজীবীকে হাইকোর্টে তলব" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220217105426-20220301024008.jpg" class="img-fluid" alt="ফরিদপুরের বরকত-রুবেলের আইনজীবীকে হাইকোর্টে তলব" />
               </div>
               <div class="lead-news-second-heading">
               
@@ -680,7 +680,7 @@ var feedify = feedify || {};
           <div class="lead-news-second">
             <a href="https://www.ekusheysangbad.com/national/news/343532">
               <div class="lead-news-second-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061430.jpg" class="img-fluid" alt="রাজধানীতে পুলিশের বাসায় ডাকাতি" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061430.jpg" class="img-fluid" alt="রাজধানীতে পুলিশের বাসায় ডাকাতি" />
               </div>
               <div class="lead-news-second-heading">
               
@@ -717,7 +717,7 @@ var feedify = feedify || {};
         <li>
           <a href="https://www.ekusheysangbad.com/opinion/news/343476">
             <div class="opinion-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220228125342.jpg" class="img-fluid rounded-circle" alt="আজম খান : আসি আসি বলে তুমি আর এলে না" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220228125342.jpg" class="img-fluid rounded-circle" alt="আজম খান : আসি আসি বলে তুমি আর এলে না" />
             </div>
             <div class="opinion-right">
               <span>জন্মদিন</span><br />
@@ -728,7 +728,7 @@ var feedify = feedify || {};
         <li>
           <a href="https://www.ekusheysangbad.com/opinion/news/343363">
             <div class="opinion-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-6-20220227115044.jpg" class="img-fluid rounded-circle" alt="অতিমারির ধাক্কাই কাটল না, এর ওপর ইউক্রেন যুদ্ধ, কী হবে আমাদের?" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-6-20220227115044.jpg" class="img-fluid rounded-circle" alt="অতিমারির ধাক্কাই কাটল না, এর ওপর ইউক্রেন যুদ্ধ, কী হবে আমাদের?" />
             </div>
             <div class="opinion-right">
               
@@ -895,7 +895,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/sports/news/343539">
       <div class="latest-news-left">
         <span>১</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
       </div>
       <div class="latest-news-right">
         <h3>নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার</h3>
@@ -906,7 +906,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/sports/news/343538">
       <div class="latest-news-left">
         <span>২</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301071150.jpg" class="img-fluid" alt="১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি " />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301071150.jpg" class="img-fluid" alt="১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি " />
       </div>
       <div class="latest-news-right">
         <h3>১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি </h3>
@@ -917,7 +917,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/343537">
       <div class="latest-news-left">
         <span>৩</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/27488526448486633385866914191724513481897027n-20220301064656.jpg" class="img-fluid" alt="যদি আওয়ামী লীগ ক্ষমতায় থাকে, আপনারা আর কোনোদিন ভোট দিতে পারবেন নাঃ চট্টগ্রামে মির্জা আব্বাস" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/27488526448486633385866914191724513481897027n-20220301064656.jpg" class="img-fluid" alt="যদি আওয়ামী লীগ ক্ষমতায় থাকে, আপনারা আর কোনোদিন ভোট দিতে পারবেন নাঃ চট্টগ্রামে মির্জা আব্বাস" />
       </div>
       <div class="latest-news-right">
         <h3>যদি আওয়ামী লীগ ক্ষমতায় থাকে, আপনারা আর কোনোদিন ভোট দিতে পারবেন নাঃ চট্টগ্রামে মির্জা আব্বাস</h3>
@@ -928,7 +928,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/343536">
       <div class="latest-news-left">
         <span>৪</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fire-2--20220301063554.jpg" class="img-fluid" alt="রাজশাহীতে অটো গ্যারেজে আগুন, ৬০ লক্ষ টাকার ক্ষয়-ক্ষতি" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fire-2--20220301063554.jpg" class="img-fluid" alt="রাজশাহীতে অটো গ্যারেজে আগুন, ৬০ লক্ষ টাকার ক্ষয়-ক্ষতি" />
       </div>
       <div class="latest-news-right">
         <h3>রাজশাহীতে অটো গ্যারেজে আগুন, ৬০ লক্ষ টাকার ক্ষয়-ক্ষতি</h3>
@@ -939,7 +939,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/343535">
       <div class="latest-news-left">
         <span>৫</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(1)-20220301062829.jpg" class="img-fluid" alt="কুতুবদিয়া উপজেলা স্বাস্থ্য কমপ্লেক্সে ৮ ডাক্তারের যোগদান " />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(1)-20220301062829.jpg" class="img-fluid" alt="কুতুবদিয়া উপজেলা স্বাস্থ্য কমপ্লেক্সে ৮ ডাক্তারের যোগদান " />
       </div>
       <div class="latest-news-right">
         <h3>কুতুবদিয়া উপজেলা স্বাস্থ্য কমপ্লেক্সে ৮ ডাক্তারের যোগদান </h3>
@@ -950,7 +950,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/343534">
       <div class="latest-news-left">
         <span>৬</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1033142804252252-20220301062159.jpeg" class="img-fluid" alt="রাণীশংকৈলে নিত্যপণ্যের দাম বাড়তিতে ক্রেতাদের নাভিশ্বাস" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1033142804252252-20220301062159.jpeg" class="img-fluid" alt="রাণীশংকৈলে নিত্যপণ্যের দাম বাড়তিতে ক্রেতাদের নাভিশ্বাস" />
       </div>
       <div class="latest-news-right">
         <h3>রাণীশংকৈলে নিত্যপণ্যের দাম বাড়তিতে ক্রেতাদের নাভিশ্বাস</h3>
@@ -961,7 +961,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/international/news/343533">
       <div class="latest-news-left">
         <span>৭</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061729.jpg" class="img-fluid" alt="রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061729.jpg" class="img-fluid" alt="রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার" />
       </div>
       <div class="latest-news-right">
         <h3>রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার</h3>
@@ -972,7 +972,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/national/news/343532">
       <div class="latest-news-left">
         <span>৮</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061430.jpg" class="img-fluid" alt="রাজধানীতে পুলিশের বাসায় ডাকাতি" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061430.jpg" class="img-fluid" alt="রাজধানীতে পুলিশের বাসায় ডাকাতি" />
       </div>
       <div class="latest-news-right">
         <h3>রাজধানীতে পুলিশের বাসায় ডাকাতি</h3>
@@ -983,7 +983,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/national/news/343531">
       <div class="latest-news-left">
         <span>৯</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220221125639-20220226023005-20220301061049.jpg" class="img-fluid" alt="বিমা নিয়ে হয়রানি বন্ধ করতে হবে-প্রধানমন্ত্রী" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220221125639-20220226023005-20220301061049.jpg" class="img-fluid" alt="বিমা নিয়ে হয়রানি বন্ধ করতে হবে-প্রধানমন্ত্রী" />
       </div>
       <div class="latest-news-right">
         <h3>বিমা নিয়ে হয়রানি বন্ধ করতে হবে-প্রধানমন্ত্রী</h3>
@@ -994,7 +994,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/entertainment/news/343530">
       <div class="latest-news-left">
         <span>১০</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/5G6H-20220301060803.jpg" class="img-fluid" alt="শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/5G6H-20220301060803.jpg" class="img-fluid" alt="শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!" />
       </div>
       <div class="latest-news-right">
         <h3>শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!</h3>
@@ -1005,7 +1005,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/343529">
       <div class="latest-news-left">
         <span>১১</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received289198979950234-20220301051616.jpeg" class="img-fluid" alt="অযোগ্য সরকার দেশকে অকার্যকর করে তুলেছে :আব্দুল্লাহ আল নোমান" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received289198979950234-20220301051616.jpeg" class="img-fluid" alt="অযোগ্য সরকার দেশকে অকার্যকর করে তুলেছে :আব্দুল্লাহ আল নোমান" />
       </div>
       <div class="latest-news-right">
         <h3>অযোগ্য সরকার দেশকে অকার্যকর করে তুলেছে :আব্দুল্লাহ আল নোমান</h3>
@@ -1016,7 +1016,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/343528">
       <div class="latest-news-left">
         <span>১২</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Birgonj-Pic--01-03-2022-20220301050809.jpg" class="img-fluid" alt="বীরগঞ্জে সোনালী ব্যাংকে ফরেন রেমিটেন্স গ্রাহক সমাবেশ অনুষ্ঠিত হয়েছে" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Birgonj-Pic--01-03-2022-20220301050809.jpg" class="img-fluid" alt="বীরগঞ্জে সোনালী ব্যাংকে ফরেন রেমিটেন্স গ্রাহক সমাবেশ অনুষ্ঠিত হয়েছে" />
       </div>
       <div class="latest-news-right">
         <h3>বীরগঞ্জে সোনালী ব্যাংকে ফরেন রেমিটেন্স গ্রাহক সমাবেশ অনুষ্ঠিত হয়েছে</h3>
@@ -1027,7 +1027,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/343527">
       <div class="latest-news-left">
         <span>১৩</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220301103750-20220301050404.jpg" class="img-fluid" alt="চট্টগ্রাম কাস্টমসের জব্দ সুতার বদলে সিগারেটের চালান" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220301103750-20220301050404.jpg" class="img-fluid" alt="চট্টগ্রাম কাস্টমসের জব্দ সুতার বদলে সিগারেটের চালান" />
       </div>
       <div class="latest-news-right">
         <h3>চট্টগ্রাম কাস্টমসের জব্দ সুতার বদলে সিগারেটের চালান</h3>
@@ -1038,7 +1038,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/international/news/343526">
       <div class="latest-news-left">
         <span>১৪</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1646চ৬জ3-20220301040709.jpg" class="img-fluid" alt="বিশ্বে করোনায় আরও ৫ হাজারের বেশি মৃত্যু" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1646চ৬জ3-20220301040709.jpg" class="img-fluid" alt="বিশ্বে করোনায় আরও ৫ হাজারের বেশি মৃত্যু" />
       </div>
       <div class="latest-news-right">
         <h3>বিশ্বে করোনায় আরও ৫ হাজারের বেশি মৃত্যু</h3>
@@ -1049,7 +1049,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/health/news/343525">
       <div class="latest-news-left">
         <span>১৫</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/YU7IU-20220301040328.jpg" class="img-fluid" alt="চট্টগ্রামে করোনায় আক্রান্ত ৪৭ জন" />
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/YU7IU-20220301040328.jpg" class="img-fluid" alt="চট্টগ্রামে করোনায় আক্রান্ত ৪৭ জন" />
       </div>
       <div class="latest-news-right">
         <h3>চট্টগ্রামে করোনায় আক্রান্ত ৪৭ জন</h3>
@@ -1070,7 +1070,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/342303">
       <div class="latest-news-left">
         <span>১</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220214162722-20220214114249.jpg" class="img-fluid" alt="পীরগঞ্জে ৪০ জন হাতুড়ে প্রানি চিকিৎসকের নামে মামলা "/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220214162722-20220214114249.jpg" class="img-fluid" alt="পীরগঞ্জে ৪০ জন হাতুড়ে প্রানি চিকিৎসকের নামে মামলা "/>
       </div>
       <div class="latest-news-right">
         <h3>পীরগঞ্জে ৪০ জন হাতুড়ে প্রানি চিকিৎসকের নামে মামলা </h3>
@@ -1081,7 +1081,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/342421">
       <div class="latest-news-left">
         <span>২</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220215185253-20220215142753.jpg" class="img-fluid" alt="পীরগঞ্জে মোটরসাইকেল সহ ৫ জুয়াড়ী আটক "/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220215185253-20220215142753.jpg" class="img-fluid" alt="পীরগঞ্জে মোটরসাইকেল সহ ৫ জুয়াড়ী আটক "/>
       </div>
       <div class="latest-news-right">
         <h3>পীরগঞ্জে মোটরসাইকেল সহ ৫ জুয়াড়ী আটক </h3>
@@ -1092,7 +1092,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/education/news/342197">
       <div class="latest-news-left">
         <span>৩</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images---2022-02-13T165702693-20220213114540.jpeg" class="img-fluid" alt="পীরগঞ্জে এক শিক্ষা প্রতিষ্ঠান পাস করেনি কেউ"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images---2022-02-13T165702693-20220213114540.jpeg" class="img-fluid" alt="পীরগঞ্জে এক শিক্ষা প্রতিষ্ঠান পাস করেনি কেউ"/>
       </div>
       <div class="latest-news-right">
         <h3>পীরগঞ্জে এক শিক্ষা প্রতিষ্ঠান পাস করেনি কেউ</h3>
@@ -1103,7 +1103,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/341543">
       <div class="latest-news-left">
         <span>৪</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received245291137775857-20220201125208.jpeg" class="img-fluid" alt="মদনে কিশোরীর ঝুলন্ত মৃতদেহ উদ্ধার"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received245291137775857-20220201125208.jpeg" class="img-fluid" alt="মদনে কিশোরীর ঝুলন্ত মৃতদেহ উদ্ধার"/>
       </div>
       <div class="latest-news-right">
         <h3>মদনে কিশোরীর ঝুলন্ত মৃতদেহ উদ্ধার</h3>
@@ -1114,7 +1114,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/crime/news/342557">
       <div class="latest-news-left">
         <span>৫</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Kurigram-Rowmari-Asami-Momedul-Haque-Photo--16022022-20220217050244.jpg" class="img-fluid" alt="কুড়িগ্রামের রৌমারীতে গ্রেফতার ৩ বছরের সাজাপ্রাপ্ত আসামী"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Kurigram-Rowmari-Asami-Momedul-Haque-Photo--16022022-20220217050244.jpg" class="img-fluid" alt="কুড়িগ্রামের রৌমারীতে গ্রেফতার ৩ বছরের সাজাপ্রাপ্ত আসামী"/>
       </div>
       <div class="latest-news-right">
         <h3>কুড়িগ্রামের রৌমারীতে গ্রেফতার ৩ বছরের সাজাপ্রাপ্ত আসামী</h3>
@@ -1125,7 +1125,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/341690">
       <div class="latest-news-left">
         <span>৬</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220203205222-20220203151734.jpg" class="img-fluid" alt="পলাশের রিফাত পেলেন পুলিশের ‍‍`‍‍`আইজিপি‍‍`‍‍` ব্যাজ পদক"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220203205222-20220203151734.jpg" class="img-fluid" alt="পলাশের রিফাত পেলেন পুলিশের ‍‍`‍‍`আইজিপি‍‍`‍‍` ব্যাজ পদক"/>
       </div>
       <div class="latest-news-right">
         <h3>পলাশের রিফাত পেলেন পুলিশের ‍‍`‍‍`আইজিপি‍‍`‍‍` ব্যাজ পদক</h3>
@@ -1136,7 +1136,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/crime/news/342394">
       <div class="latest-news-left">
         <span>৭</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1124670671684738-20220215114540.jpeg" class="img-fluid" alt="মদনে গাঁজার গাছ সহ এক মাদক কারবারি গ্রেপ্তার"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1124670671684738-20220215114540.jpeg" class="img-fluid" alt="মদনে গাঁজার গাছ সহ এক মাদক কারবারি গ্রেপ্তার"/>
       </div>
       <div class="latest-news-right">
         <h3>মদনে গাঁজার গাছ সহ এক মাদক কারবারি গ্রেপ্তার</h3>
@@ -1147,7 +1147,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/342133">
       <div class="latest-news-left">
         <span>৮</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(1)-20220212120142.jfif" class="img-fluid" alt="জামালপুরে ৯৭ বছরের বৃদ্ধার ঝুলন্ত মরদেহ উদ্ধার"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(1)-20220212120142.jfif" class="img-fluid" alt="জামালপুরে ৯৭ বছরের বৃদ্ধার ঝুলন্ত মরদেহ উদ্ধার"/>
       </div>
       <div class="latest-news-right">
         <h3>জামালপুরে ৯৭ বছরের বৃদ্ধার ঝুলন্ত মরদেহ উদ্ধার</h3>
@@ -1158,7 +1158,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/education/news/342242">
       <div class="latest-news-left">
         <span>৯</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/2222222-20220213150755.jpg" class="img-fluid" alt="খিলগাঁও উচ্চ বিদ্যালয়ের সাবেক শিক্ষক আঃ খালিক স্যারের চিরবিদায়"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/2222222-20220213150755.jpg" class="img-fluid" alt="খিলগাঁও উচ্চ বিদ্যালয়ের সাবেক শিক্ষক আঃ খালিক স্যারের চিরবিদায়"/>
       </div>
       <div class="latest-news-right">
         <h3>খিলগাঁও উচ্চ বিদ্যালয়ের সাবেক শিক্ষক আঃ খালিক স্যারের চিরবিদায়</h3>
@@ -1169,7 +1169,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/341483">
       <div class="latest-news-left">
         <span>১০</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/FBIMG1643455783632-20220131125301.jpg" class="img-fluid" alt="পীরগঞ্জে দুই হাত জমি নিয়ে তিন ভাইয়ে মধ্যে মারা মারি- নিহত-১"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/FBIMG1643455783632-20220131125301.jpg" class="img-fluid" alt="পীরগঞ্জে দুই হাত জমি নিয়ে তিন ভাইয়ে মধ্যে মারা মারি- নিহত-১"/>
       </div>
       <div class="latest-news-right">
         <h3>পীরগঞ্জে দুই হাত জমি নিয়ে তিন ভাইয়ে মধ্যে মারা মারি- নিহত-১</h3>
@@ -1180,7 +1180,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/342362">
       <div class="latest-news-left">
         <span>১১</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/dead-body-1-20211129152902-20220215095348.jpg" class="img-fluid" alt="ঈশ্বরগঞ্জে নির্বাচনী সহিংসতায় আহত ব্যক্তির মৃত্য"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/dead-body-1-20211129152902-20220215095348.jpg" class="img-fluid" alt="ঈশ্বরগঞ্জে নির্বাচনী সহিংসতায় আহত ব্যক্তির মৃত্য"/>
       </div>
       <div class="latest-news-right">
         <h3>ঈশ্বরগঞ্জে নির্বাচনী সহিংসতায় আহত ব্যক্তির মৃত্য</h3>
@@ -1191,7 +1191,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/country/news/341759">
       <div class="latest-news-left">
         <span>১২</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images---2022-02-05T165956412-20220205141800.jpeg" class="img-fluid" alt="পীরগঞ্জে বিদ্যুতায়িত হয়ে কৃষকের মৃত্যু"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images---2022-02-05T165956412-20220205141800.jpeg" class="img-fluid" alt="পীরগঞ্জে বিদ্যুতায়িত হয়ে কৃষকের মৃত্যু"/>
       </div>
       <div class="latest-news-right">
         <h3>পীরগঞ্জে বিদ্যুতায়িত হয়ে কৃষকের মৃত্যু</h3>
@@ -1202,7 +1202,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/crime/news/342261">
       <div class="latest-news-left">
         <span>১৩</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(4)-20220214053211.jpeg" class="img-fluid" alt="ঠাকুরগাঁও ৩য় শ্রেণির এক ছাত্রীকে ধর্ষণের চেষ্টা "/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(4)-20220214053211.jpeg" class="img-fluid" alt="ঠাকুরগাঁও ৩য় শ্রেণির এক ছাত্রীকে ধর্ষণের চেষ্টা "/>
       </div>
       <div class="latest-news-right">
         <h3>ঠাকুরগাঁও ৩য় শ্রেণির এক ছাত্রীকে ধর্ষণের চেষ্টা </h3>
@@ -1213,7 +1213,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/sports/news/341960">
       <div class="latest-news-left">
         <span>১৪</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/20220208210018-20220208151957.jpg" class="img-fluid" alt="এসপিএল চ্যাম্পিয়ন ‍‍`দুরন্ত শাহজাদপুর‍‍`,টুর্নামেন্ট সেরা সোহান"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/20220208210018-20220208151957.jpg" class="img-fluid" alt="এসপিএল চ্যাম্পিয়ন ‍‍`দুরন্ত শাহজাদপুর‍‍`,টুর্নামেন্ট সেরা সোহান"/>
       </div>
       <div class="latest-news-right">
         <h3>এসপিএল চ্যাম্পিয়ন ‍‍`দুরন্ত শাহজাদপুর‍‍`,টুর্নামেন্ট সেরা সোহান</h3>
@@ -1224,7 +1224,7 @@ var feedify = feedify || {};
     <a href="https://www.ekusheysangbad.com/entertainment/news/342100">
       <div class="latest-news-left">
         <span>১৫</span>
-        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(18)-20220211114011.jpeg" class="img-fluid" alt="শিল্পী সমিতি থেকে পদত্যাগ করলেন রোজিনা"/>
+        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(18)-20220211114011.jpeg" class="img-fluid" alt="শিল্পী সমিতি থেকে পদত্যাগ করলেন রোজিনা"/>
       </div>
       <div class="latest-news-right">
         <h3>শিল্পী সমিতি থেকে পদত্যাগ করলেন রোজিনা</h3>
@@ -1325,7 +1325,7 @@ var feedify = feedify || {};
                   <div class="item">
           <a href="https://www.ekusheysangbad.com/video/149">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210813102838.jpg" alt="কি কারনে পরীমনির জামিন নামঞ্জুর, বক্তব্যে রাষ্ট্র পক্ষের আইনজীবী.....">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210813102838.jpg" alt="কি কারনে পরীমনির জামিন নামঞ্জুর, বক্তব্যে রাষ্ট্র পক্ষের আইনজীবী.....">
                 <div class="videos-icon">
                   <i class="fa fa-facebook"></i>
                 </div>
@@ -1337,7 +1337,7 @@ var feedify = feedify || {};
         </div><div class="item">
           <a href="https://www.ekusheysangbad.com/video/148">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210813102323.jpg" alt="পরীমনির জামিন নামঞ্জুর বক্তব্য আইনজীবীর....">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210813102323.jpg" alt="পরীমনির জামিন নামঞ্জুর বক্তব্য আইনজীবীর....">
                 <div class="videos-icon">
                   <i class="fa fa-facebook"></i>
                 </div>
@@ -1349,7 +1349,7 @@ var feedify = feedify || {};
         </div><div class="item">
           <a href="https://www.ekusheysangbad.com/video/147">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210810111236.jpg" alt="ঈদ পরবর্তী কঠোর লকডাউনের ১৯তম শেষ দিনে রাজধানী জিরো পয়েন্টের ভিডিও চিএ....">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210810111236.jpg" alt="ঈদ পরবর্তী কঠোর লকডাউনের ১৯তম শেষ দিনে রাজধানী জিরো পয়েন্টের ভিডিও চিএ....">
                 <div class="videos-icon">
                   <i class="fa fa-facebook"></i>
                 </div>
@@ -1361,7 +1361,7 @@ var feedify = feedify || {};
         </div><div class="item">
           <a href="https://www.ekusheysangbad.com/video/146">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210810110256.jpg" alt="চীফ মেট্রোপলিটন ম‍্যাজিস্ট্রেট কোট থেকে পরীমনির আইনজীবীর বক্তব্য সরাসরি..">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/Untitled-1 copy-20210810110256.jpg" alt="চীফ মেট্রোপলিটন ম‍্যাজিস্ট্রেট কোট থেকে পরীমনির আইনজীবীর বক্তব্য সরাসরি..">
                 <div class="videos-icon">
                   <i class="fa fa-facebook"></i>
                 </div>
@@ -1373,7 +1373,7 @@ var feedify = feedify || {};
         </div><div class="item">
           <a href="https://www.ekusheysangbad.com/video/144">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/seven-march-cover-20180307130042-20201006103259-20210827080910.jpg" alt="কোরবানীর গরু নিয়ে দিশেহারা খামারীরা">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/seven-march-cover-20180307130042-20201006103259-20210827080910.jpg" alt="কোরবানীর গরু নিয়ে দিশেহারা খামারীরা">
                 <div class="videos-icon">
                   <i class="fa fa-play"></i>
                 </div>
@@ -1385,7 +1385,7 @@ var feedify = feedify || {};
         </div><div class="item">
           <a href="https://www.ekusheysangbad.com/video/42">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/AAAAAA-20201027084846-20201028105148.jpg" alt="বুলেটিন | ২৭ অক্টোবর ২০২০">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/AAAAAA-20201027084846-20201028105148.jpg" alt="বুলেটিন | ২৭ অক্টোবর ২০২০">
                 <div class="videos-icon">
                   <i class="fa fa-play"></i>
                 </div>
@@ -1397,7 +1397,7 @@ var feedify = feedify || {};
         </div><div class="item">
           <a href="https://www.ekusheysangbad.com/video/40">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/eryrteytyrty-20201024043532-20201027104059.jpg" alt="বুলেটিন | ২৪ অক্টোবর ২০২০">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/eryrteytyrty-20201024043532-20201027104059.jpg" alt="বুলেটিন | ২৪ অক্টোবর ২০২০">
                 <div class="videos-icon">
                   <i class="fa fa-play"></i>
                 </div>
@@ -1409,7 +1409,7 @@ var feedify = feedify || {};
         </div><div class="item">
           <a href="https://www.ekusheysangbad.com/video/39">
               <div class="images">
-                <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/PM-22-10-2020-20201022060712-20201027103920.jpg" alt="বুলেটিন | ২২ অক্টোবর ২০২০">
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/PM-22-10-2020-20201022060712-20201027103920.jpg" alt="বুলেটিন | ২২ অক্টোবর ২০২০">
                 <div class="videos-icon">
                   <i class="fa fa-play"></i>
                 </div>
@@ -1428,7 +1428,7 @@ var feedify = feedify || {};
                   <div class="item">
         <a href="https://www.ekusheysangbad.com/video/94">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/ek roman-20201201115618.jpg" alt="গানাড্ডা উইথ রোমান মাজহার">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/ek roman-20201201115618.jpg" alt="গানাড্ডা উইথ রোমান মাজহার">
               <div class="videos-icon">
                 <i class="fa fa-play"></i>
               </div>
@@ -1447,7 +1447,7 @@ var feedify = feedify || {};
                   <div class="item">
         <a href="https://www.ekusheysangbad.com/video/133">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/6666-20201230111510.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (৩০/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/6666-20201230111510.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (৩০/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1459,7 +1459,7 @@ var feedify = feedify || {};
       </div><div class="item">
         <a href="https://www.ekusheysangbad.com/video/129">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek-20201228115217.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২৮/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek-20201228115217.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২৮/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1471,7 +1471,7 @@ var feedify = feedify || {};
       </div><div class="item">
         <a href="https://www.ekusheysangbad.com/video/127">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ekusheysaqngbad-20201227113649.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২৭/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ekusheysaqngbad-20201227113649.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২৭/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1483,7 +1483,7 @@ var feedify = feedify || {};
       </div><div class="item">
         <a href="https://www.ekusheysangbad.com/video/125">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek-20201226104246.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২৬/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek-20201226104246.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২৬/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1495,7 +1495,7 @@ var feedify = feedify || {};
       </div><div class="item">
         <a href="https://www.ekusheysangbad.com/video/123">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ttt-20201222065219.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২১/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ttt-20201222065219.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২১/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1507,7 +1507,7 @@ var feedify = feedify || {};
       </div><div class="item">
         <a href="https://www.ekusheysangbad.com/video/121">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek44-20201220113420.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২০/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek44-20201220113420.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (২০/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1519,7 +1519,7 @@ var feedify = feedify || {};
       </div><div class="item">
         <a href="https://www.ekusheysangbad.com/video/118">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-fff-20201219122125.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (১৯/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-fff-20201219122125.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (১৯/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1531,7 +1531,7 @@ var feedify = feedify || {};
       </div><div class="item">
         <a href="https://www.ekusheysangbad.com/video/116">
             <div class="images">
-              <img src="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek-20201217104139.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (১৭/১২/২০২০)">
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/PhotoAlbum/2020October/tasha-ek-20201217104139.jpg" alt="একুশে সংবাদ.কম অনলাইন স্বাস্থ্য বুলেটিন (১৭/১২/২০২০)">
               <div class="videos-icon">
                 <i class="fa fa-facebook"></i>
               </div>
@@ -1577,7 +1577,7 @@ var feedify = feedify || {};
       <div class="col-12 col-md-12 col-lg-5 custom-padding">
           <div class="new-style-national-big">
             <a href="https://www.ekusheysangbad.com/national/news/343532">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/-20220301061430.jpg" class="img-fluid" alt="রাজধানীতে পুলিশের বাসায় ডাকাতি" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/-20220301061430.jpg" class="img-fluid" alt="রাজধানীতে পুলিশের বাসায় ডাকাতি" />
               <div class="new-style-national-big-text">
                 <h2>রাজধানীতে পুলিশের বাসায় ডাকাতি</h2>
                 <p>রাজধানীর ডেমরায় যাত্রাবাড়ী থানার উপ-পরিদর্শক (এসআই) আজিজুল হক সুমনের বাড়িতে ডাকাতির ঘটনা ঘটেছে। সোমবার (২৮ ফেব্রুয়ারি) রাতে এ ঘটনায় ডেমরা থানায় একটি মামলা হয়েছে। মামলার বাদী এসআই আজিজুল হকের স্ত্রী ফারজানা আফরোজ।
@@ -1595,7 +1595,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343531">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220221125639-20220226023005-20220301061049.jpg" class="img-fluid" alt="বিমা নিয়ে হয়রানি বন্ধ করতে হবে-প্রধানমন্ত্রী" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220221125639-20220226023005-20220301061049.jpg" class="img-fluid" alt="বিমা নিয়ে হয়রানি বন্ধ করতে হবে-প্রধানমন্ত্রী" />
               </div>
               <div class="national-news-right">
               
@@ -1608,7 +1608,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343517">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220217105426-20220301024008.jpg" class="img-fluid" alt="ফরিদপুরের বরকত-রুবেলের আইনজীবীকে হাইকোর্টে তলব" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220217105426-20220301024008.jpg" class="img-fluid" alt="ফরিদপুরের বরকত-রুবেলের আইনজীবীকে হাইকোর্টে তলব" />
               </div>
               <div class="national-news-right">
               
@@ -1621,7 +1621,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343515">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/SP1646051053-20220301014324.jpg" class="img-fluid" alt="অগ্নিঝরা মার্চ শুরু" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/SP1646051053-20220301014324.jpg" class="img-fluid" alt="অগ্নিঝরা মার্চ শুরু" />
               </div>
               <div class="national-news-right">
               
@@ -1634,7 +1634,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343509">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/image-32456-1646061322-20220228155131.jpg" class="img-fluid" alt="বাংলাদেশ-ভারত সম্পর্ক ঐতিহাসিক: সংস্কৃতি প্রতিমন্ত্রী" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/image-32456-1646061322-20220228155131.jpg" class="img-fluid" alt="বাংলাদেশ-ভারত সম্পর্ক ঐতিহাসিক: সংস্কৃতি প্রতিমন্ত্রী" />
               </div>
               <div class="national-news-right">
               
@@ -1647,7 +1647,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343506">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-28-20220228145549.jpg" class="img-fluid" alt="বঙ্গবন্ধুর প্রতিকৃতিতে নতুন ইসির শ্রদ্ধা" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-28-20220228145549.jpg" class="img-fluid" alt="বঙ্গবন্ধুর প্রতিকৃতিতে নতুন ইসির শ্রদ্ধা" />
               </div>
               <div class="national-news-right">
               
@@ -1665,7 +1665,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343496">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/75b9c2b7b20b24199a96e6245fa8b5150-20220228141433.jpg" class="img-fluid" alt="শেখ রাসেল জাতীয় শিশু কিশোর পরিষদের প্রতিষ্ঠাবার্ষিকীতে ক্রীড়া সামগ্রী বিতরণ " />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/75b9c2b7b20b24199a96e6245fa8b5150-20220228141433.jpg" class="img-fluid" alt="শেখ রাসেল জাতীয় শিশু কিশোর পরিষদের প্রতিষ্ঠাবার্ষিকীতে ক্রীড়া সামগ্রী বিতরণ " />
               </div>
               <div class="national-news-right">
               
@@ -1678,7 +1678,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343480">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/20220228133007-20220228130606.jpg" class="img-fluid" alt="দুঃসময়ে যারা দলের পাশে থাকে তারাই প্রকৃত বন্ধু: ওবায়দুল কাদের" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/20220228133007-20220228130606.jpg" class="img-fluid" alt="দুঃসময়ে যারা দলের পাশে থাকে তারাই প্রকৃত বন্ধু: ওবায়দুল কাদের" />
               </div>
               <div class="national-news-right">
               
@@ -1691,7 +1691,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343477">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG-20220227-WA0007-20220228125358.jpg" class="img-fluid" alt="চন্দনকোঠা ও নগর ভবনের সম্মুখে অভিযান; ৩৫ শতক জমি উদ্ধার " />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG-20220227-WA0007-20220228125358.jpg" class="img-fluid" alt="চন্দনকোঠা ও নগর ভবনের সম্মুখে অভিযান; ৩৫ শতক জমি উদ্ধার " />
               </div>
               <div class="national-news-right">
               
@@ -1704,7 +1704,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343474">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-10-20220228125010.jpg" class="img-fluid" alt="দেশের কোথাও ভিক্ষুক দেখা যায় না-তথ্যমন্ত্রী" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-10-20220228125010.jpg" class="img-fluid" alt="দেশের কোথাও ভিক্ষুক দেখা যায় না-তথ্যমন্ত্রী" />
               </div>
               <div class="national-news-right">
               
@@ -1717,7 +1717,7 @@ var feedify = feedify || {};
       <li>
             <a href="https://www.ekusheysangbad.com/national/news/343469">
             <div class="national-news-left">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220228120844.jpg" class="img-fluid" alt="পাপুলের স্ত্রী-কন্যার ব্যাংক হিসাবের তথ্য চায় দুদক" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220228120844.jpg" class="img-fluid" alt="পাপুলের স্ত্রী-কন্যার ব্যাংক হিসাবের তথ্য চায় দুদক" />
               </div>
               <div class="national-news-right">
               
@@ -1756,7 +1756,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/politics/news/343505">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-27-20220228145110.jpg" class="img-fluid" alt="কথা দিয়েছিল দশ টাকা, আজকে চাল ৭০ টাকা কেজি-হাফিজ" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-27-20220228145110.jpg" class="img-fluid" alt="কথা দিয়েছিল দশ টাকা, আজকে চাল ৭০ টাকা কেজি-হাফিজ" />
               <div class="new-feature-lead-text">
                 
                 <h2>কথা দিয়েছিল দশ টাকা, আজকে চাল ৭০ টাকা কেজি-হাফিজ</h2>
@@ -1768,7 +1768,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/politics/news/343467">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220228120130.jpg" class="img-fluid" alt="ডা. জাফরুল্লাহর সাথে বিএনপির কোনো সম্পর্ক নেই-ফখরুল " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220228120130.jpg" class="img-fluid" alt="ডা. জাফরুল্লাহর সাথে বিএনপির কোনো সম্পর্ক নেই-ফখরুল " />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1781,7 +1781,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/politics/news/343462">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(30)-20220228114853.jpeg" class="img-fluid" alt="বিএনপি একটি বিচ্ছিন্ন রাজনৈতিক দল : ওবায়দুল কাদের" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(30)-20220228114853.jpeg" class="img-fluid" alt="বিএনপি একটি বিচ্ছিন্ন রাজনৈতিক দল : ওবায়দুল কাদের" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1794,7 +1794,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/politics/news/343384">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220227131116.jpg" class="img-fluid" alt="বিএনপি নির্বাচন কমিশন চায় না, নির্বাচনও চায় না: কৃষিমন্ত্রী" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220227131116.jpg" class="img-fluid" alt="বিএনপি নির্বাচন কমিশন চায় না, নির্বাচনও চায় না: কৃষিমন্ত্রী" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1807,7 +1807,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/politics/news/343382">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-16-20220227130558.jpg" class="img-fluid" alt="আন্দোলন সংগ্রামের কোনো বিকল্প নেই: ফখরুল" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-16-20220227130558.jpg" class="img-fluid" alt="আন্দোলন সংগ্রামের কোনো বিকল্প নেই: ফখরুল" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1829,7 +1829,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/international/news/343533">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061729.jpg" class="img-fluid" alt="রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301061729.jpg" class="img-fluid" alt="রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার" />
               <div class="new-feature-lead-text">
                 
                 <h2>রাশিয়ার বিরুদ্ধে লড়াইয়ে নামলেন অলিম্পিকে স্বর্ণজেতা বক্সার</h2>
@@ -1841,7 +1841,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/international/news/343526">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1646চ৬জ3-20220301040709.jpg" class="img-fluid" alt="বিশ্বে করোনায় আরও ৫ হাজারের বেশি মৃত্যু" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1646চ৬জ3-20220301040709.jpg" class="img-fluid" alt="বিশ্বে করোনায় আরও ৫ হাজারের বেশি মৃত্যু" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1854,7 +1854,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/international/news/343523">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025952.jpg" class="img-fluid" alt="জাতিসংঘের ১২ রুশ কূটনীতিককে বহিষ্কার করল যুক্তরাষ্ট্র" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025952.jpg" class="img-fluid" alt="জাতিসংঘের ১২ রুশ কূটনীতিককে বহিষ্কার করল যুক্তরাষ্ট্র" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1867,7 +1867,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/international/news/343521">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025400.jpg" class="img-fluid" alt="ছবিতে ৪০ মাইল দীর্ঘ রুশ সেনাবহর" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025400.jpg" class="img-fluid" alt="ছবিতে ৪০ মাইল দীর্ঘ রুশ সেনাবহর" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1880,7 +1880,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/international/news/343520">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-20220301025016.jpg" class="img-fluid" alt="ভারতীয় শিক্ষার্থীদের সীমান্ত পেরোতে ইউক্রেন সৈন্যের বাধা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-20220301025016.jpg" class="img-fluid" alt="ভারতীয় শিক্ষার্থীদের সীমান্ত পেরোতে ইউক্রেন সৈন্যের বাধা" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1902,7 +1902,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/health/news/343525">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/YU7IU-20220301040328.jpg" class="img-fluid" alt="চট্টগ্রামে করোনায় আক্রান্ত ৪৭ জন" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/YU7IU-20220301040328.jpg" class="img-fluid" alt="চট্টগ্রামে করোনায় আক্রান্ত ৪৭ জন" />
               <div class="new-feature-lead-text">
                 
                 <h2>চট্টগ্রামে করোনায় আক্রান্ত ৪৭ জন</h2>
@@ -1914,7 +1914,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/health/news/343500">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-24-20220228143836.jpg" class="img-fluid" alt="যুক্তরাষ্ট্র থেকে সর্বোচ্চ টিকা পেয়েছে বাংলাদেশ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-24-20220228143836.jpg" class="img-fluid" alt="যুক্তরাষ্ট্র থেকে সর্বোচ্চ টিকা পেয়েছে বাংলাদেশ" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1927,7 +1927,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/health/news/343481">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-14-20220228130842.jpg" class="img-fluid" alt="তামাকজনিত রোগে বছরে দেড় লক্ষাধিক মানুষের মৃত্যু" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-14-20220228130842.jpg" class="img-fluid" alt="তামাকজনিত রোগে বছরে দেড় লক্ষাধিক মানুষের মৃত্যু" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1940,7 +1940,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/health/news/343460">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/55555-20220228113838.jpg" class="img-fluid" alt="করোনায় আরও ৪ জনের মৃত্যু" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/55555-20220228113838.jpg" class="img-fluid" alt="করোনায় আরও ৪ জনের মৃত্যু" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1953,7 +1953,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/health/news/343356">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-20220227110921.jpg" class="img-fluid" alt="একদিনে রেকর্ড এক কোটি ২০ লাখ টিকা দেয়া হয়েছে-স্বাস্থ্যমন্ত্রী" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-20220227110921.jpg" class="img-fluid" alt="একদিনে রেকর্ড এক কোটি ২০ লাখ টিকা দেয়া হয়েছে-স্বাস্থ্যমন্ত্রী" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -1999,7 +1999,7 @@ var feedify = feedify || {};
                 <div class="new-style-sports-small">
                   <a href="https://www.ekusheysangbad.com/sports/news/343538">
                     <div class="new-style-sports-small-image">
-                      <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301071150.jpg" class="img-fluid" alt="১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি " />
+                      <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301071150.jpg" class="img-fluid" alt="১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি " />
                     </div>
                     <div class="new-style-sports-small-text">
                       <h3>১০০ টাকায় দেখা যাবে বাংলাদেশ-আফগানিস্তান টি-টোয়েন্টি </h3>
@@ -2011,7 +2011,7 @@ var feedify = feedify || {};
                 <div class="new-style-sports-small">
                   <a href="https://www.ekusheysangbad.com/sports/news/343516">
                     <div class="new-style-sports-small-image">
-                      <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fifa-uefa-20220301023645.jpg" class="img-fluid" alt="রাশিয়ার জাতীয় দল ও সব ক্লাবকে নিষিদ্ধ করল ফিফা-উয়েফা " />
+                      <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fifa-uefa-20220301023645.jpg" class="img-fluid" alt="রাশিয়ার জাতীয় দল ও সব ক্লাবকে নিষিদ্ধ করল ফিফা-উয়েফা " />
                     </div>
                     <div class="new-style-sports-small-text">
                       <h3>রাশিয়ার জাতীয় দল ও সব ক্লাবকে নিষিদ্ধ করল ফিফা-উয়েফা </h3>
@@ -2024,7 +2024,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-big">
                       <a href="https://www.ekusheysangbad.com/sports/news/343539">
                         <div class="new-style-sports-big-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
                         </div>
                         <div class="new-style-sports-big-text">
                           
@@ -2039,7 +2039,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                     <a href="https://www.ekusheysangbad.com/sports/news/343494">
                         <div class="new-style-sports-small-image">
-                        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-22-20220228140520.jpg" class="img-fluid" alt="দ. আফ্রিকায় টেস্ট খেলবেন সাকিব" />
+                        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-22-20220228140520.jpg" class="img-fluid" alt="দ. আফ্রিকায় টেস্ট খেলবেন সাকিব" />
                         </div>
                         <div class="new-style-sports-small-text">
                         
@@ -2053,7 +2053,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                     <a href="https://www.ekusheysangbad.com/sports/news/343470">
                         <div class="new-style-sports-small-image">
-                        <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220228122303.jpg" class="img-fluid" alt="আফগানদের সাথে ১০ পয়েন্ট হারাল বাংলাদেশ" />
+                        <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220228122303.jpg" class="img-fluid" alt="আফগানদের সাথে ১০ পয়েন্ট হারাল বাংলাদেশ" />
                         </div>
                         <div class="new-style-sports-small-text">
                         
@@ -2071,7 +2071,7 @@ var feedify = feedify || {};
           <div class="new-style-sports-small">
             <a href="https://www.ekusheysangbad.com/sports/news/343468">
               <div class="new-style-sports-small-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-6-20220228120529.jpg" class="img-fluid" alt="ব্যাডমিন্টনে অ্যাডহক কমিটি" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-6-20220228120529.jpg" class="img-fluid" alt="ব্যাডমিন্টনে অ্যাডহক কমিটি" />
               </div>
               <div class="new-style-sports-small-text">
                 
@@ -2084,7 +2084,7 @@ var feedify = feedify || {};
           <div class="new-style-sports-small">
             <a href="https://www.ekusheysangbad.com/sports/news/343466">
               <div class="new-style-sports-small-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-20220228115603.jpg" class="img-fluid" alt="শেখ রাসেলকে হারিয়ে শীর্ষে উঠল বসুন্ধরা কিংস" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-20220228115603.jpg" class="img-fluid" alt="শেখ রাসেলকে হারিয়ে শীর্ষে উঠল বসুন্ধরা কিংস" />
               </div>
               <div class="new-style-sports-small-text">
                 
@@ -2097,7 +2097,7 @@ var feedify = feedify || {};
           <div class="new-style-sports-small">
             <a href="https://www.ekusheysangbad.com/sports/news/343463">
               <div class="new-style-sports-small-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-20220228115127.jpg" class="img-fluid" alt="আফগান সিরিজ শেষে সাকিবের সঙ্গে বসবে বিসিবি" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-20220228115127.jpg" class="img-fluid" alt="আফগান সিরিজ শেষে সাকিবের সঙ্গে বসবে বিসিবি" />
               </div>
               <div class="new-style-sports-small-text">
                 
@@ -2110,7 +2110,7 @@ var feedify = feedify || {};
           <div class="new-style-sports-small">
             <a href="https://www.ekusheysangbad.com/sports/news/343431">
               <div class="new-style-sports-small-image">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228044245.jpg" class="img-fluid" alt="টস জিতে ব্যাটিংয়ে বাংলাদেশ" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228044245.jpg" class="img-fluid" alt="টস জিতে ব্যাটিংয়ে বাংলাদেশ" />
               </div>
               <div class="new-style-sports-small-text">
                 
@@ -2127,7 +2127,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343470">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220228122303.jpg" class="img-fluid" alt="আফগানদের সাথে ১০ পয়েন্ট হারাল বাংলাদেশ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220228122303.jpg" class="img-fluid" alt="আফগানদের সাথে ১০ পয়েন্ট হারাল বাংলাদেশ" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2139,7 +2139,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343463">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-20220228115127.jpg" class="img-fluid" alt="আফগান সিরিজ শেষে সাকিবের সঙ্গে বসবে বিসিবি" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-20220228115127.jpg" class="img-fluid" alt="আফগান সিরিজ শেষে সাকিবের সঙ্গে বসবে বিসিবি" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2152,7 +2152,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-big">
                       <a href="https://www.ekusheysangbad.com/sports/news/343539">
                         <div class="new-style-sports-big-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/H6H67U-20220301071422.jpg" class="img-fluid" alt="নিজেদের উন্নতি বিশ্বকে দেখানোর এটাই সেরা সুযোগ-নিগার" />
                           </div>
                           <div class="new-style-sports-big-text">
                             
@@ -2165,7 +2165,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                       <a href="https://www.ekusheysangbad.com/sports/news/343431">
                         <div class="new-style-sports-small-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228044245.jpg" class="img-fluid" alt="টস জিতে ব্যাটিংয়ে বাংলাদেশ" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228044245.jpg" class="img-fluid" alt="টস জিতে ব্যাটিংয়ে বাংলাদেশ" />
                         </div>
                         <div class="new-style-sports-small-text">
                           
@@ -2177,7 +2177,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                       <a href="https://www.ekusheysangbad.com/sports/news/343419">
                         <div class="new-style-sports-small-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228015701.jpg" class="img-fluid" alt="পিএসএলের শিরোপা আফ্রিদির লাহোরের" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228015701.jpg" class="img-fluid" alt="পিএসএলের শিরোপা আফ্রিদির লাহোরের" />
                         </div>
                         <div class="new-style-sports-small-text">
                           
@@ -2191,7 +2191,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343357">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-20220227111704.jpg" class="img-fluid" alt="প্রথম বিশ্বকাপ স্মরণীয় করে রাখতে চান বাংলাদেশের মেয়েরা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-20220227111704.jpg" class="img-fluid" alt="প্রথম বিশ্বকাপ স্মরণীয় করে রাখতে চান বাংলাদেশের মেয়েরা" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2203,7 +2203,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343309">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/ogura-20220226145906.jpg" class="img-fluid" alt="বগুড়ায় অনুশীলন ক্যাম্পে মুমিনুল-সৌম্যরা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/ogura-20220226145906.jpg" class="img-fluid" alt="বগুড়ায় অনুশীলন ক্যাম্পে মুমিনুল-সৌম্যরা" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2215,7 +2215,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343237">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226083935.jpg" class="img-fluid" alt="ব্রাজিল ক্লাবের টিম বাসে বিস্ফোরণ, আহত ৩ ফুটবলার" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226083935.jpg" class="img-fluid" alt="ব্রাজিল ক্লাবের টিম বাসে বিস্ফোরণ, আহত ৩ ফুটবলার" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2227,7 +2227,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343213">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220225133717.jpg" class="img-fluid" alt="আফগানদের গুড়িয়ে ওয়ানডে সিরিজ জিতল টাইগাররা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220225133717.jpg" class="img-fluid" alt="আফগানদের গুড়িয়ে ওয়ানডে সিরিজ জিতল টাইগাররা" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2243,7 +2243,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343416">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228014229.jpg" class="img-fluid" alt="রাশিয়ায় সব আন্তর্জাতিক ম্যাচ নিষিদ্ধ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228014229.jpg" class="img-fluid" alt="রাশিয়ায় সব আন্তর্জাতিক ম্যাচ নিষিদ্ধ" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2255,7 +2255,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343415">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/barcelona-20220228014041.jpg" class="img-fluid" alt="বিলবাওকে গুঁড়িয়ে বার্সেলোনার বড় জয়" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/barcelona-20220228014041.jpg" class="img-fluid" alt="বিলবাওকে গুঁড়িয়ে বার্সেলোনার বড় জয়" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2268,7 +2268,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-big">
                       <a href="https://www.ekusheysangbad.com/sports/news/343466">
                         <div class="new-style-sports-big-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-4-20220228115603.jpg" class="img-fluid" alt="শেখ রাসেলকে হারিয়ে শীর্ষে উঠল বসুন্ধরা কিংস" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-4-20220228115603.jpg" class="img-fluid" alt="শেখ রাসেলকে হারিয়ে শীর্ষে উঠল বসুন্ধরা কিংস" />
                           </div>
                           <div class="new-style-sports-big-text">
                             
@@ -2281,7 +2281,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                       <a href="https://www.ekusheysangbad.com/sports/news/343414">
                         <div class="new-style-sports-small-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228013854.jpg" class="img-fluid" alt="টাইব্রেকারে চেলসিকে হারিয়ে লিভারপুলের শিরোপা" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220228013854.jpg" class="img-fluid" alt="টাইব্রেকারে চেলসিকে হারিয়ে লিভারপুলের শিরোপা" />
                         </div>
                         <div class="new-style-sports-small-text">
                           
@@ -2293,7 +2293,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                       <a href="https://www.ekusheysangbad.com/sports/news/343365">
                         <div class="new-style-sports-small-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220227121011.jpg" class="img-fluid" alt="প্যারিসে ‘জাদু’ দেখিয়েই মেসি ফিরলেন বার্সেলোনায়" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-20220227121011.jpg" class="img-fluid" alt="প্যারিসে ‘জাদু’ দেখিয়েই মেসি ফিরলেন বার্সেলোনায়" />
                         </div>
                         <div class="new-style-sports-small-text">
                           
@@ -2307,7 +2307,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343318">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/y6yu6u-20220227024141.jpg" class="img-fluid" alt="আবারও রোনালদোর ইউনাইটেডের হোঁচট" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/y6yu6u-20220227024141.jpg" class="img-fluid" alt="আবারও রোনালদোর ইউনাইটেডের হোঁচট" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2319,7 +2319,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343317">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220227024014.jpg" class="img-fluid" alt="এভারটনের বিপক্ষে সিটির ঘাম ঝরানো জয়" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220227024014.jpg" class="img-fluid" alt="এভারটনের বিপক্ষে সিটির ঘাম ঝরানো জয়" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2331,7 +2331,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343316">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/real-madrid-20220227023827.jpg" class="img-fluid" alt="ভাইয়েকানোর মাঠে রিয়ালের কষ্টার্জিত জয়" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/real-madrid-20220227023827.jpg" class="img-fluid" alt="ভাইয়েকানোর মাঠে রিয়ালের কষ্টার্জিত জয়" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2343,7 +2343,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343315">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/psg-20220227023629.jpg" class="img-fluid" alt="মেসি-এমবাপের ঝলকে পিএসজির বড় জয়" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/psg-20220227023629.jpg" class="img-fluid" alt="মেসি-এমবাপের ঝলকে পিএসজির বড় জয়" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2359,7 +2359,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343394">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-26-20220227141129.jpg" class="img-fluid" alt="কক্সবাজারের ‘সাম্পানে’ ঠাই পাচ্ছে হকিও " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-26-20220227141129.jpg" class="img-fluid" alt="কক্সবাজারের ‘সাম্পানে’ ঠাই পাচ্ছে হকিও " />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2371,7 +2371,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/343360">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220227113702.jpg" class="img-fluid" alt="ইউক্রেন যুদ্ধের জেরে চেলসির ‘দায়িত্ব’ ছাড়লেন আব্রামোভিচ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220227113702.jpg" class="img-fluid" alt="ইউক্রেন যুদ্ধের জেরে চেলসির ‘দায়িত্ব’ ছাড়লেন আব্রামোভিচ" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2384,7 +2384,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-big">
                       <a href="https://www.ekusheysangbad.com/sports/news/343468">
                         <div class="new-style-sports-big-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-6-20220228120529.jpg" class="img-fluid" alt="ব্যাডমিন্টনে অ্যাডহক কমিটি" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-6-20220228120529.jpg" class="img-fluid" alt="ব্যাডমিন্টনে অ্যাডহক কমিটি" />
                           </div>
                           <div class="new-style-sports-big-text">
                             
@@ -2397,7 +2397,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                       <a href="https://www.ekusheysangbad.com/sports/news/343282">
                         <div class="new-style-sports-small-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/RY5Y-20220226131848.jpg" class="img-fluid" alt="বগুড়ায় আন্তর্জাতিক ম্যাচ না হওয়ার ব্যাখ্যা দিল বিসিবি" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/RY5Y-20220226131848.jpg" class="img-fluid" alt="বগুড়ায় আন্তর্জাতিক ম্যাচ না হওয়ার ব্যাখ্যা দিল বিসিবি" />
                         </div>
                         <div class="new-style-sports-small-text">
                           
@@ -2409,7 +2409,7 @@ var feedify = feedify || {};
                     <div class="new-style-sports-small">
                       <a href="https://www.ekusheysangbad.com/sports/news/343177">
                         <div class="new-style-sports-small-image">
-                          <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220224132106.jpg" class="img-fluid" alt="জাতীয় যুব র‍্যাঙ্কিং আরচ্যারিতে রেকর্ড" />
+                          <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220224132106.jpg" class="img-fluid" alt="জাতীয় যুব র‍্যাঙ্কিং আরচ্যারিতে রেকর্ড" />
                         </div>
                         <div class="new-style-sports-small-text">
                           
@@ -2423,7 +2423,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/342962">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/RY6U-20220222095844.jpg" class="img-fluid" alt="ভক্তদের ভালো বাসায় সিক্ত জোকোভিচ  ফিরেছেন কোর্টে" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/RY6U-20220222095844.jpg" class="img-fluid" alt="ভক্তদের ভালো বাসায় সিক্ত জোকোভিচ  ফিরেছেন কোর্টে" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2435,7 +2435,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/342927">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-22-20220221144532.jpg" class="img-fluid" alt="শেষ হলো সেনাবাহিনী হকি প্রতিযোগিতা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-22-20220221144532.jpg" class="img-fluid" alt="শেষ হলো সেনাবাহিনী হকি প্রতিযোগিতা" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2447,7 +2447,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/342751">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220219151036.jpg" class="img-fluid" alt="জমকালো আয়োজনে অনুষ্ঠিত হলো বাংলার মুষ্টিবাজ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220219151036.jpg" class="img-fluid" alt="জমকালো আয়োজনে অনুষ্ঠিত হলো বাংলার মুষ্টিবাজ" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2459,7 +2459,7 @@ var feedify = feedify || {};
               <div class="new-style-sports-small">
                 <a href="https://www.ekusheysangbad.com/sports/news/342638">
                   <div class="new-style-sports-small-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/y6u7-20220218050831.jpg" class="img-fluid" alt="রেস্টুরেন্ট ব্যবসায় খালেদ মাসুদ পাইলট" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/y6u7-20220218050831.jpg" class="img-fluid" alt="রেস্টুরেন্ট ব্যবসায় খালেদ মাসুদ পাইলট" />
                   </div>
                   <div class="new-style-sports-small-text">
                     
@@ -2495,7 +2495,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/information-technology/news/343490">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-19-20220228133120.jpg" class="img-fluid" alt="নতুন ডাটা প্যাকেজ কার্যকর ১৫ মার্চ থেকে" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-19-20220228133120.jpg" class="img-fluid" alt="নতুন ডাটা প্যাকেজ কার্যকর ১৫ মার্চ থেকে" />
               <div class="new-feature-lead-text">
                 
                 <h2>নতুন ডাটা প্যাকেজ কার্যকর ১৫ মার্চ থেকে</h2>
@@ -2507,7 +2507,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/information-technology/news/343478">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220228125927.jpg" class="img-fluid" alt="৬ ভিন্ন রঙে আসছে মারুতি সুজুকির ব্যালেনো" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220228125927.jpg" class="img-fluid" alt="৬ ভিন্ন রঙে আসছে মারুতি সুজুকির ব্যালেনো" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2520,7 +2520,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/information-technology/news/343427">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(27)-20220228034751.jpeg" class="img-fluid" alt="অব্যবহৃত ডেটা যোগ হবে নতুন প্যাকেজে" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(27)-20220228034751.jpeg" class="img-fluid" alt="অব্যবহৃত ডেটা যোগ হবে নতুন প্যাকেজে" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2533,7 +2533,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/information-technology/news/343389">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-22-20220227133328.jpg" class="img-fluid" alt="যে ৩ টিপস মানলে আপনার স্মার্টফোন হ্যাং হবে না" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-22-20220227133328.jpg" class="img-fluid" alt="যে ৩ টিপস মানলে আপনার স্মার্টফোন হ্যাং হবে না" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2546,7 +2546,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/information-technology/news/343162">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220224114807.jpg" class="img-fluid" alt="হোয়াটসঅ্যাপে যে ৯ ভুল কখনই করবেন না" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220224114807.jpg" class="img-fluid" alt="হোয়াটসঅ্যাপে যে ৯ ভুল কখনই করবেন না" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2568,7 +2568,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/crime/news/343433">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/FBIMG1645982148321-20220228045156.jpg" class="img-fluid" alt="মহেশখালীর ফেরদৌস হত্যা মামলার প্রধান আসামী জাবেদ চট্টগ্রামে আটক" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/FBIMG1645982148321-20220228045156.jpg" class="img-fluid" alt="মহেশখালীর ফেরদৌস হত্যা মামলার প্রধান আসামী জাবেদ চট্টগ্রামে আটক" />
               <div class="new-feature-lead-text">
                 
                 <h2>মহেশখালীর ফেরদৌস হত্যা মামলার প্রধান আসামী জাবেদ চট্টগ্রামে আটক</h2>
@@ -2580,7 +2580,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/crime/news/343417">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/164599082012-20220228014822.jpg" class="img-fluid" alt="মোহাম্মদপুরের শীর্ষ সন্ত্রাসী মোশারফ আটক" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/164599082012-20220228014822.jpg" class="img-fluid" alt="মোহাম্মদপুরের শীর্ষ সন্ত্রাসী মোশারফ আটক" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2593,7 +2593,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/crime/news/343408">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/P40440Untitled-1-20220227155928.jpg" class="img-fluid" alt="চাকরির নামে প্রতারণা যুবকক আটক" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/P40440Untitled-1-20220227155928.jpg" class="img-fluid" alt="চাকরির নামে প্রতারণা যুবকক আটক" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2606,7 +2606,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/crime/news/343381">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Saronlhola-Picture-20220227130156.jpg" class="img-fluid" alt="শরণখোলায় তিন নারী ছিনতাইকারীকে আটক" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Saronlhola-Picture-20220227130156.jpg" class="img-fluid" alt="শরণখোলায় তিন নারী ছিনতাইকারীকে আটক" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2619,7 +2619,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/crime/news/343373">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG-20220227-WA0003(1)-20220227123209.jpg" class="img-fluid" alt="ডিমলায় হেরোইন ও ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG-20220227-WA0003(1)-20220227123209.jpg" class="img-fluid" alt="ডিমলায় হেরোইন ও ইয়াবাসহ মাদক ব্যবসায়ী গ্রেফতার" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2640,7 +2640,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/lifestyle/news/343522">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025706.jpg" class="img-fluid" alt="রাজধানীর যেসব মার্কেট বন্ধ মঙ্গলবার" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220301025706.jpg" class="img-fluid" alt="রাজধানীর যেসব মার্কেট বন্ধ মঙ্গলবার" />
               <div class="new-feature-lead-text">
                 
                 <h2>রাজধানীর যেসব মার্কেট বন্ধ মঙ্গলবার</h2>
@@ -2652,7 +2652,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/lifestyle/news/343486">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220228132103.jpg" class="img-fluid" alt="আলু টিক্কি তৈরির রেসিপি" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-17-20220228132103.jpg" class="img-fluid" alt="আলু টিক্কি তৈরির রেসিপি" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2665,7 +2665,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/lifestyle/news/343485">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-16-20220228131817.jpg" class="img-fluid" alt="লাচ্ছা পরোটা তৈরির রেসিপি" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-16-20220228131817.jpg" class="img-fluid" alt="লাচ্ছা পরোটা তৈরির রেসিপি" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2678,7 +2678,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/lifestyle/news/343483">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-15-20220228131446.jpg" class="img-fluid" alt="যে ভুলে আপনার ওজন অতিরিক্ত বেড়ে যেতে পারে" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-15-20220228131446.jpg" class="img-fluid" alt="যে ভুলে আপনার ওজন অতিরিক্ত বেড়ে যেতে পারে" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2691,7 +2691,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/lifestyle/news/343426">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/YJ76KI-20220228032257.jpg" class="img-fluid" alt="পায়ের গোড়ালি ফাটা ৪ রোগের লক্ষণ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/YJ76KI-20220228032257.jpg" class="img-fluid" alt="পায়ের গোড়ালি ফাটা ৪ রোগের লক্ষণ" />
                   </div>
                   <div class="feature-news-right">
                   
@@ -2748,7 +2748,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/343444">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-copy-20220228095919.jpg" class="img-fluid" alt="ডাচ- বাংলার বোর্ড সভা ৬ মার্চ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-copy-20220228095919.jpg" class="img-fluid" alt="ডাচ- বাংলার বোর্ড সভা ৬ মার্চ" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>ডাচ- বাংলার বোর্ড সভা ৬ মার্চ</h2>
@@ -2759,7 +2759,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/343346">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-copy-20220227101031.jpg" class="img-fluid" alt="পেনিনসুলার ২৫ লাখ শেয়ার কিনবে সায়েম্যান বিচ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-copy-20220227101031.jpg" class="img-fluid" alt="পেনিনসুলার ২৫ লাখ শেয়ার কিনবে সায়েম্যান বিচ" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>পেনিনসুলার ২৫ লাখ শেয়ার কিনবে সায়েম্যান বিচ</h2>
@@ -2773,7 +2773,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/343148">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-20220224101453.jpg" class="img-fluid" alt="মালয়েশিয়ার সঙ্গে মুক্ত বাণিজ্য চুক্তি চাইলেন বাণিজ্যমন্ত্রী" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-20220224101453.jpg" class="img-fluid" alt="মালয়েশিয়ার সঙ্গে মুক্ত বাণিজ্য চুক্তি চাইলেন বাণিজ্যমন্ত্রী" />
                   </div>
                   <div class="feature-news-right">
                     <h3>মালয়েশিয়ার সঙ্গে মুক্ত বাণিজ্য চুক্তি চাইলেন বাণিজ্যমন্ত্রী</h3>
@@ -2785,7 +2785,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/343089">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-copy-20220223125428.jpg" class="img-fluid" alt="টানা পতনের পর উত্থানে শেয়ারবাজার " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-copy-20220223125428.jpg" class="img-fluid" alt="টানা পতনের পর উত্থানে শেয়ারবাজার " />
                   </div>
                   <div class="feature-news-right">
                     <h3>টানা পতনের পর উত্থানে শেয়ারবাজার </h3>
@@ -2797,7 +2797,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/343078">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-copy-20220223115317.jpg" class="img-fluid" alt="সিলকো ফার্মার নগদ লভ্যাংশ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-copy-20220223115317.jpg" class="img-fluid" alt="সিলকো ফার্মার নগদ লভ্যাংশ" />
                   </div>
                   <div class="feature-news-right">
                     <h3>সিলকো ফার্মার নগদ লভ্যাংশ</h3>
@@ -2809,7 +2809,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/343070">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-copy-20220223113032.jpg" class="img-fluid" alt="ফু-ওয়াং ফুডের পর্ষদ সভা ২৬ ফেব্রুয়ারি" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-3-copy-20220223113032.jpg" class="img-fluid" alt="ফু-ওয়াং ফুডের পর্ষদ সভা ২৬ ফেব্রুয়ারি" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ফু-ওয়াং ফুডের পর্ষদ সভা ২৬ ফেব্রুয়ারি</h3>
@@ -2821,7 +2821,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/343065">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-copy-20220223110710.jpg" class="img-fluid" alt="ক্রেডিট রেটিং সম্পন্ন জাহিন টেক্সের" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-copy-20220223110710.jpg" class="img-fluid" alt="ক্রেডিট রেটিং সম্পন্ন জাহিন টেক্সের" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ক্রেডিট রেটিং সম্পন্ন জাহিন টেক্সের</h3>
@@ -2841,7 +2841,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/337270">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211129062306.jpg" class="img-fluid" alt="নগদ লভ্যাংশ পাঠিয়েছে সাউথ বাংলা ব্যাংক" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211129062306.jpg" class="img-fluid" alt="নগদ লভ্যাংশ পাঠিয়েছে সাউথ বাংলা ব্যাংক" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>নগদ লভ্যাংশ পাঠিয়েছে সাউথ বাংলা ব্যাংক</h2>
@@ -2852,7 +2852,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/336874">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124055636.jpg" class="img-fluid" alt="৬০০ কোটি টাকার বন্ডের অনুমোদন এবি ব্যাংক লিমিটেডের" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124055636.jpg" class="img-fluid" alt="৬০০ কোটি টাকার বন্ডের অনুমোদন এবি ব্যাংক লিমিটেডের" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>৬০০ কোটি টাকার বন্ডের অনুমোদন এবি ব্যাংক লিমিটেডের</h2>
@@ -2866,7 +2866,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336801">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/USERSCOPEDTEMPDAT-20211122121213.jpeg" class="img-fluid" alt="ব্লকে সবচেয়ে বেশি লেনদেন:ওয়ান ব্যাংক" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/USERSCOPEDTEMPDAT-20211122121213.jpeg" class="img-fluid" alt="ব্লকে সবচেয়ে বেশি লেনদেন:ওয়ান ব্যাংক" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ব্লকে সবচেয়ে বেশি লেনদেন:ওয়ান ব্যাংক</h3>
@@ -2878,7 +2878,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336475">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211118093014.jpg" class="img-fluid" alt="শাহজালাল ইসলামী ব্যাংক পারপেচ্যুয়াল বন্ডের আবেদন শুরু হচ্ছে" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211118093014.jpg" class="img-fluid" alt="শাহজালাল ইসলামী ব্যাংক পারপেচ্যুয়াল বন্ডের আবেদন শুরু হচ্ছে" />
                   </div>
                   <div class="feature-news-right">
                     <h3>শাহজালাল ইসলামী ব্যাংক পারপেচ্যুয়াল বন্ডের আবেদন শুরু হচ্ছে</h3>
@@ -2890,7 +2890,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336353">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211116113247.jpg" class="img-fluid" alt="সোনালী ব্যাংক বেপরোয়া খেলাপি ঋণের কারণে আবারও বিতর্কিত" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211116113247.jpg" class="img-fluid" alt="সোনালী ব্যাংক বেপরোয়া খেলাপি ঋণের কারণে আবারও বিতর্কিত" />
                   </div>
                   <div class="feature-news-right">
                     <h3>সোনালী ব্যাংক বেপরোয়া খেলাপি ঋণের কারণে আবারও বিতর্কিত</h3>
@@ -2902,7 +2902,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336080">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211113081002.jpg" class="img-fluid" alt="ব্র্যাক ব্যাংক মুনাফায় ৮ শতাংশ প্রবৃদ্ধি" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211113081002.jpg" class="img-fluid" alt="ব্র্যাক ব্যাংক মুনাফায় ৮ শতাংশ প্রবৃদ্ধি" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ব্র্যাক ব্যাংক মুনাফায় ৮ শতাংশ প্রবৃদ্ধি</h3>
@@ -2914,7 +2914,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/333607">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ব্যাংক-ছবি-একুশে-20211012112801.jpg" class="img-fluid" alt="বেনামী ঋণ ঠেকাতে কঠোর অবস্থানে বাংলাদেশ ব্যাংক" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ব্যাংক-ছবি-একুশে-20211012112801.jpg" class="img-fluid" alt="বেনামী ঋণ ঠেকাতে কঠোর অবস্থানে বাংলাদেশ ব্যাংক" />
                   </div>
                   <div class="feature-news-right">
                     <h3>বেনামী ঋণ ঠেকাতে কঠোর অবস্থানে বাংলাদেশ ব্যাংক</h3>
@@ -2935,7 +2935,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/337554">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/phonix-finance-20211202112834.jpg" class="img-fluid" alt="ফনিক্স ফিন্যান্সের পর্ষদ সভা ৭ ডিসেম্বর" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/phonix-finance-20211202112834.jpg" class="img-fluid" alt="ফনিক্স ফিন্যান্সের পর্ষদ সভা ৭ ডিসেম্বর" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>ফনিক্স ফিন্যান্সের পর্ষদ সভা ৭ ডিসেম্বর</h2>
@@ -2946,7 +2946,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/336398">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211117094508.jpg" class="img-fluid" alt="সানলাইফ ইন্স্যুরেন্স দেবে লভ্যাংশ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211117094508.jpg" class="img-fluid" alt="সানলাইফ ইন্স্যুরেন্স দেবে লভ্যাংশ" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>সানলাইফ ইন্স্যুরেন্স দেবে লভ্যাংশ</h2>
@@ -2960,7 +2960,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/324883">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210705151332.jpg" class="img-fluid" alt="মোবাইল ওয়ার্ল্ড কংগ্রেস ২০২১ -এ হুয়াওয়ের পাঁচটি অ্যাওয়ার্ড অর্জন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210705151332.jpg" class="img-fluid" alt="মোবাইল ওয়ার্ল্ড কংগ্রেস ২০২১ -এ হুয়াওয়ের পাঁচটি অ্যাওয়ার্ড অর্জন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>মোবাইল ওয়ার্ল্ড কংগ্রেস ২০২১ -এ হুয়াওয়ের পাঁচটি অ্যাওয়ার্ড অর্জন</h3>
@@ -2972,7 +2972,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/324829">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210705080053.jpg" class="img-fluid" alt="ঈদুল আযহা উপলক্ষে টিসিবি পণ্য বিক্রি শুরু" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210705080053.jpg" class="img-fluid" alt="ঈদুল আযহা উপলক্ষে টিসিবি পণ্য বিক্রি শুরু" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ঈদুল আযহা উপলক্ষে টিসিবি পণ্য বিক্রি শুরু</h3>
@@ -2984,7 +2984,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/324822">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210705061156.jpg" class="img-fluid" alt="এবার উত্তরাঞ্চল থেকে কোরবানির গরু আসবে ট্রেনে" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210705061156.jpg" class="img-fluid" alt="এবার উত্তরাঞ্চল থেকে কোরবানির গরু আসবে ট্রেনে" />
                   </div>
                   <div class="feature-news-right">
                     <h3>এবার উত্তরাঞ্চল থেকে কোরবানির গরু আসবে ট্রেনে</h3>
@@ -2996,7 +2996,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/324794">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/as5-20210704134123.jpg" class="img-fluid" alt="প্রাণ-আরএফএল গ্রুপ নিঃস্ব ও অসহায় ৬৯৪ পরিবারকে সহায়তা দিলো" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/as5-20210704134123.jpg" class="img-fluid" alt="প্রাণ-আরএফএল গ্রুপ নিঃস্ব ও অসহায় ৬৯৪ পরিবারকে সহায়তা দিলো" />
                   </div>
                   <div class="feature-news-right">
                     <h3>প্রাণ-আরএফএল গ্রুপ নিঃস্ব ও অসহায় ৬৯৪ পরিবারকে সহায়তা দিলো</h3>
@@ -3008,7 +3008,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/324762">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ab-20210704101311.jpg" class="img-fluid" alt="এবি ব্যাংক ও ইলেকট্রো মার্ট লিমিটেডের মধ্যে চুক্তি সই" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ab-20210704101311.jpg" class="img-fluid" alt="এবি ব্যাংক ও ইলেকট্রো মার্ট লিমিটেডের মধ্যে চুক্তি সই" />
                   </div>
                   <div class="feature-news-right">
                     <h3>এবি ব্যাংক ও ইলেকট্রো মার্ট লিমিটেডের মধ্যে চুক্তি সই</h3>
@@ -3030,7 +3030,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/337380">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211130110039.jpg" class="img-fluid" alt="প্যারামাউন্ট টেক্সটাইলের উৎপাদন ক্ষমতা বাড়ানোর সিদ্ধান্ত" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211130110039.jpg" class="img-fluid" alt="প্যারামাউন্ট টেক্সটাইলের উৎপাদন ক্ষমতা বাড়ানোর সিদ্ধান্ত" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>প্যারামাউন্ট টেক্সটাইলের উৎপাদন ক্ষমতা বাড়ানোর সিদ্ধান্ত</h2>
@@ -3041,7 +3041,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/336991">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125103158.jpg" class="img-fluid" alt="৭ কোম্পানির লেনদেন স্পট মার্কেটে শুরু হবে রোববার" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125103158.jpg" class="img-fluid" alt="৭ কোম্পানির লেনদেন স্পট মার্কেটে শুরু হবে রোববার" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>৭ কোম্পানির লেনদেন স্পট মার্কেটে শুরু হবে রোববার</h2>
@@ -3055,7 +3055,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336990">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125102935.jpg" class="img-fluid" alt="ব্যবসা সম্প্রসারণের সিদ্ধান্ত এস এস স্টিল লিমিটেডের" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125102935.jpg" class="img-fluid" alt="ব্যবসা সম্প্রসারণের সিদ্ধান্ত এস এস স্টিল লিমিটেডের" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ব্যবসা সম্প্রসারণের সিদ্ধান্ত এস এস স্টিল লিমিটেডের</h3>
@@ -3067,7 +3067,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336985">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125101010.jpg" class="img-fluid" alt="আগামী রোববার ৬ কোম্পানির লেনদেন বন্ধ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125101010.jpg" class="img-fluid" alt="আগামী রোববার ৬ কোম্পানির লেনদেন বন্ধ" />
                   </div>
                   <div class="feature-news-right">
                     <h3>আগামী রোববার ৬ কোম্পানির লেনদেন বন্ধ</h3>
@@ -3079,7 +3079,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336923">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124111353.jpg" class="img-fluid" alt="আগামী ২৩ ডিসেম্বর ​বিডি থাই ফুডের আইপিও আবেদন শুরু " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124111353.jpg" class="img-fluid" alt="আগামী ২৩ ডিসেম্বর ​বিডি থাই ফুডের আইপিও আবেদন শুরু " />
                   </div>
                   <div class="feature-news-right">
                     <h3>আগামী ২৩ ডিসেম্বর ​বিডি থাই ফুডের আইপিও আবেদন শুরু </h3>
@@ -3091,7 +3091,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336892">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124092555.jpg" class="img-fluid" alt="আগামীকাল বন্ধ থাকবে ১৬ কোম্পানির লেনদেন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124092555.jpg" class="img-fluid" alt="আগামীকাল বন্ধ থাকবে ১৬ কোম্পানির লেনদেন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>আগামীকাল বন্ধ থাকবে ১৬ কোম্পানির লেনদেন</h3>
@@ -3103,7 +3103,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336882">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124074431.jpg" class="img-fluid" alt="খাদ্য ও আনুষঙ্গিক ক্যাটাগরিতে প্রাণ ডেইরির সেরা করদাতা সম্মাননা  " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124074431.jpg" class="img-fluid" alt="খাদ্য ও আনুষঙ্গিক ক্যাটাগরিতে প্রাণ ডেইরির সেরা করদাতা সম্মাননা  " />
                   </div>
                   <div class="feature-news-right">
                     <h3>খাদ্য ও আনুষঙ্গিক ক্যাটাগরিতে প্রাণ ডেইরির সেরা করদাতা সম্মাননা  </h3>
@@ -3124,7 +3124,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/337555">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/BB-and-Bsec-20211202113150.jpg" class="img-fluid" alt="বিএসইসির দাবিকে প্রত্যাখ্যান কেন্দ্রীয় ব্যাংকের" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/BB-and-Bsec-20211202113150.jpg" class="img-fluid" alt="বিএসইসির দাবিকে প্রত্যাখ্যান কেন্দ্রীয় ব্যাংকের" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>বিএসইসির দাবিকে প্রত্যাখ্যান কেন্দ্রীয় ব্যাংকের</h2>
@@ -3135,7 +3135,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/economy/news/337378">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211130105108.jpg" class="img-fluid" alt="পুঁজিবাজারে আবারও দরপতন তবে বেড়েছে লেনদেন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211130105108.jpg" class="img-fluid" alt="পুঁজিবাজারে আবারও দরপতন তবে বেড়েছে লেনদেন" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>পুঁজিবাজারে আবারও দরপতন তবে বেড়েছে লেনদেন</h2>
@@ -3149,7 +3149,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336983">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125095705.jpg" class="img-fluid" alt="শেয়ারবাজারে লেনদেন কমে সাত মাসে সর্বনিম্ন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211125095705.jpg" class="img-fluid" alt="শেয়ারবাজারে লেনদেন কমে সাত মাসে সর্বনিম্ন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>শেয়ারবাজারে লেনদেন কমে সাত মাসে সর্বনিম্ন</h3>
@@ -3161,7 +3161,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336925">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124111637.jpg" class="img-fluid" alt="পুঁজিবাজারে বড় দরপতন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211124111637.jpg" class="img-fluid" alt="পুঁজিবাজারে বড় দরপতন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>পুঁজিবাজারে বড় দরপতন</h3>
@@ -3173,7 +3173,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336852">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211123115455.jpg" class="img-fluid" alt="১২ কোম্পানির শেয়ার লেনদেন বন্ধ থাকবে বুধবার" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211123115455.jpg" class="img-fluid" alt="১২ কোম্পানির শেয়ার লেনদেন বন্ধ থাকবে বুধবার" />
                   </div>
                   <div class="feature-news-right">
                     <h3>১২ কোম্পানির শেয়ার লেনদেন বন্ধ থাকবে বুধবার</h3>
@@ -3185,7 +3185,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336851">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211123115121.jpg" class="img-fluid" alt="শেয়ারবাজারের ১০ কোম্পানির লেনদেন চালু বুধবার" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211123115121.jpg" class="img-fluid" alt="শেয়ারবাজারের ১০ কোম্পানির লেনদেন চালু বুধবার" />
                   </div>
                   <div class="feature-news-right">
                     <h3>শেয়ারবাজারের ১০ কোম্পানির লেনদেন চালু বুধবার</h3>
@@ -3197,7 +3197,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/economy/news/336831">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211123063751.jpg" class="img-fluid" alt="প্রথম ঘণ্টায় মূল্যসূচকের ঊর্ধ্বমুখী প্রবণতা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211123063751.jpg" class="img-fluid" alt="প্রথম ঘণ্টায় মূল্যসূচকের ঊর্ধ্বমুখী প্রবণতা" />
                   </div>
                   <div class="feature-news-right">
                     <h3>প্রথম ঘণ্টায় মূল্যসূচকের ঊর্ধ্বমুখী প্রবণতা</h3>
@@ -3240,7 +3240,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/341950">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-21-20220208141003.jpg" class="img-fluid" alt="আমিরাতে একদিনে করোনা শনাক্ত ১৬১৫ জনের" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-21-20220208141003.jpg" class="img-fluid" alt="আমিরাতে একদিনে করোনা শনাক্ত ১৬১৫ জনের" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>আমিরাতে একদিনে করোনা শনাক্ত ১৬১৫ জনের</h2>
@@ -3251,7 +3251,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/342728">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220219133022.jpg" class="img-fluid" alt="১২ দিনে ৫ বাংলাদেশি খুন দ. আফ্রিকায়" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220219133022.jpg" class="img-fluid" alt="১২ দিনে ৫ বাংলাদেশি খুন দ. আফ্রিকায়" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>১২ দিনে ৫ বাংলাদেশি খুন দ. আফ্রিকায়</h2>
@@ -3265,7 +3265,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/338622">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/26306552812783512093523568147835494510033831n-20211218161918.jpg" class="img-fluid" alt="বিশ্ব কবি মঞ্চ ইউকে‍‍`র উদ্যোগে স্বাধীনতা ওসুবর্ণ জয়ন্তী উদযাপন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/26306552812783512093523568147835494510033831n-20211218161918.jpg" class="img-fluid" alt="বিশ্ব কবি মঞ্চ ইউকে‍‍`র উদ্যোগে স্বাধীনতা ওসুবর্ণ জয়ন্তী উদযাপন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>বিশ্ব কবি মঞ্চ ইউকে‍‍`র উদ্যোগে স্বাধীনতা ওসুবর্ণ জয়ন্তী উদযাপন</h3>
@@ -3277,7 +3277,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/338486">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Aug-20211216040239.jpg" class="img-fluid" alt="অস্ট্রেলিয়ায় বাউন্সি ক্যাসেল থেকে পড়ে ২ শিশু নিহত" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Aug-20211216040239.jpg" class="img-fluid" alt="অস্ট্রেলিয়ায় বাউন্সি ক্যাসেল থেকে পড়ে ২ শিশু নিহত" />
                   </div>
                   <div class="feature-news-right">
                     <h3>অস্ট্রেলিয়ায় বাউন্সি ক্যাসেল থেকে পড়ে ২ শিশু নিহত</h3>
@@ -3289,7 +3289,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/338082">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/murad-20211211052039.jpg" class="img-fluid" alt="কানাডা ঢুকতেই পারলেন না মুরাদ হাসান" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/murad-20211211052039.jpg" class="img-fluid" alt="কানাডা ঢুকতেই পারলেন না মুরাদ হাসান" />
                   </div>
                   <div class="feature-news-right">
                     <h3>কানাডা ঢুকতেই পারলেন না মুরাদ হাসান</h3>
@@ -3301,7 +3301,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/337491">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/IMG-20211201-WA0016-20211201121713.jpg" class="img-fluid" alt="লন্ডনে ১৭তম ব্রিটিশ কারি অ্যাওয়ার্ড উৎসবে বাংলাদেশ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/IMG-20211201-WA0016-20211201121713.jpg" class="img-fluid" alt="লন্ডনে ১৭তম ব্রিটিশ কারি অ্যাওয়ার্ড উৎসবে বাংলাদেশ" />
                   </div>
                   <div class="feature-news-right">
                     <h3>লন্ডনে ১৭তম ব্রিটিশ কারি অ্যাওয়ার্ড উৎসবে বাংলাদেশ</h3>
@@ -3313,7 +3313,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/337424">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Uk-20211130165350.jpg" class="img-fluid" alt="বৃটেনের কার্ডিফ শহরে বাংলাদেশ হাইকমিশনের কনস্যুলার সার্ভিস সফলভাবে  সম্পন্ন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Uk-20211130165350.jpg" class="img-fluid" alt="বৃটেনের কার্ডিফ শহরে বাংলাদেশ হাইকমিশনের কনস্যুলার সার্ভিস সফলভাবে  সম্পন্ন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>বৃটেনের কার্ডিফ শহরে বাংলাদেশ হাইকমিশনের কনস্যুলার সার্ভিস সফলভাবে  সম্পন্ন</h3>
@@ -3333,7 +3333,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/333044">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/USA-20211006004718.jpg" class="img-fluid" alt="হিউম্যান সাপোর্ট কর্পোরেশনের এবছরের দ্বিতীয় টিকাদান স্বতঃস্ফূর্তভাবে সমপন্ন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/USA-20211006004718.jpg" class="img-fluid" alt="হিউম্যান সাপোর্ট কর্পোরেশনের এবছরের দ্বিতীয় টিকাদান স্বতঃস্ফূর্তভাবে সমপন্ন" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>হিউম্যান সাপোর্ট কর্পোরেশনের এবছরের দ্বিতীয় টিকাদান স্বতঃস্ফূর্তভাবে সমপন্ন</h2>
@@ -3344,7 +3344,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/325022">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/momen-20210617064838-20210707084714.jpg" class="img-fluid" alt="নিউইয়র্কে বাংলাদেশ কনস্যুলেট পরিদর্শনে পররাষ্ট্রমন্ত্রী" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/momen-20210617064838-20210707084714.jpg" class="img-fluid" alt="নিউইয়র্কে বাংলাদেশ কনস্যুলেট পরিদর্শনে পররাষ্ট্রমন্ত্রী" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>নিউইয়র্কে বাংলাদেশ কনস্যুলেট পরিদর্শনে পররাষ্ট্রমন্ত্রী</h2>
@@ -3358,7 +3358,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/318446">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/USA-20210406044542.jpg" class="img-fluid" alt="যুক্তরাষ্ট্রে বাংলাদেশি পরিবারের ছয় সদস্যের লাশ উদ্ধার" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/USA-20210406044542.jpg" class="img-fluid" alt="যুক্তরাষ্ট্রে বাংলাদেশি পরিবারের ছয় সদস্যের লাশ উদ্ধার" />
                   </div>
                   <div class="feature-news-right">
                     <h3>যুক্তরাষ্ট্রে বাংলাদেশি পরিবারের ছয় সদস্যের লাশ উদ্ধার</h3>
@@ -3370,7 +3370,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/315114">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/10-20210302080611.jpg" class="img-fluid" alt="আল-জাজিরার বিরুদ্ধে ৫০০ মিলিয়ন ডলারের ক্ষতিপূরণ মামলা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/10-20210302080611.jpg" class="img-fluid" alt="আল-জাজিরার বিরুদ্ধে ৫০০ মিলিয়ন ডলারের ক্ষতিপূরণ মামলা" />
                   </div>
                   <div class="feature-news-right">
                     <h3>আল-জাজিরার বিরুদ্ধে ৫০০ মিলিয়ন ডলারের ক্ষতিপূরণ মামলা</h3>
@@ -3382,7 +3382,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/305918">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/image-110195-1605332640-20201114080829.jpg" class="img-fluid" alt="যুক্তরাষ্ট্রে বাংলাদেশি বিজ্ঞানী ড. মাহমুদ বিরল সম্মানে ভূষিত" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/image-110195-1605332640-20201114080829.jpg" class="img-fluid" alt="যুক্তরাষ্ট্রে বাংলাদেশি বিজ্ঞানী ড. মাহমুদ বিরল সম্মানে ভূষিত" />
                   </div>
                   <div class="feature-news-right">
                     <h3>যুক্তরাষ্ট্রে বাংলাদেশি বিজ্ঞানী ড. মাহমুদ বিরল সম্মানে ভূষিত</h3>
@@ -3394,7 +3394,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/305514">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/us-abul-245081-20201104054803.jpg" class="img-fluid" alt="মার্কিন নির্বাচনে বাংলাদেশি আবুল বিপুল ভোটে জয়ী" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/us-abul-245081-20201104054803.jpg" class="img-fluid" alt="মার্কিন নির্বাচনে বাংলাদেশি আবুল বিপুল ভোটে জয়ী" />
                   </div>
                   <div class="feature-news-right">
                     <h3>মার্কিন নির্বাচনে বাংলাদেশি আবুল বিপুল ভোটে জয়ী</h3>
@@ -3406,7 +3406,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/305240">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/new-20201028013403-20201028044210.jpg" class="img-fluid" alt="নিউ জার্সিতে বাংলাদেশি কাউন্সিলম্যানের শপথগ্রহণ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/new-20201028013403-20201028044210.jpg" class="img-fluid" alt="নিউ জার্সিতে বাংলাদেশি কাউন্সিলম্যানের শপথগ্রহণ" />
                   </div>
                   <div class="feature-news-right">
                     <h3>নিউ জার্সিতে বাংলাদেশি কাউন্সিলম্যানের শপথগ্রহণ</h3>
@@ -3426,7 +3426,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/337424">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Uk-20211130165350.jpg" class="img-fluid" alt="বৃটেনের কার্ডিফ শহরে বাংলাদেশ হাইকমিশনের কনস্যুলার সার্ভিস সফলভাবে  সম্পন্ন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Uk-20211130165350.jpg" class="img-fluid" alt="বৃটেনের কার্ডিফ শহরে বাংলাদেশ হাইকমিশনের কনস্যুলার সার্ভিস সফলভাবে  সম্পন্ন" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>বৃটেনের কার্ডিফ শহরে বাংলাদেশ হাইকমিশনের কনস্যুলার সার্ভিস সফলভাবে  সম্পন্ন</h2>
@@ -3437,7 +3437,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/326333">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210720060222.jpg" class="img-fluid" alt="২৬ শে টিভির চেয়ারম্যানের মরহুম মাতার জন্য ভার্চুয়াল দোয়া ও স্মরণ সভার" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210720060222.jpg" class="img-fluid" alt="২৬ শে টিভির চেয়ারম্যানের মরহুম মাতার জন্য ভার্চুয়াল দোয়া ও স্মরণ সভার" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>২৬ শে টিভির চেয়ারম্যানের মরহুম মাতার জন্য ভার্চুয়াল দোয়া ও স্মরণ সভার</h2>
@@ -3451,7 +3451,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/324205">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210628043855.jpg" class="img-fluid" alt="জাহানারা ইমামের ২৭তম মৃত্যুবার্ষিকীতে লন্ডনে স্মরণ সভা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210628043855.jpg" class="img-fluid" alt="জাহানারা ইমামের ২৭তম মৃত্যুবার্ষিকীতে লন্ডনে স্মরণ সভা" />
                   </div>
                   <div class="feature-news-right">
                     <h3>জাহানারা ইমামের ২৭তম মৃত্যুবার্ষিকীতে লন্ডনে স্মরণ সভা</h3>
@@ -3463,7 +3463,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/321515">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/uk-press-20210520105046.jpg" class="img-fluid" alt="সাংবাদিক রোজিনা ইসলামের নি:শ্বর্ত মুক্তির দাবীতে লণ্ডন বাংলা প্রেস ক্লাবের মানবন্ধন " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/uk-press-20210520105046.jpg" class="img-fluid" alt="সাংবাদিক রোজিনা ইসলামের নি:শ্বর্ত মুক্তির দাবীতে লণ্ডন বাংলা প্রেস ক্লাবের মানবন্ধন " />
                   </div>
                   <div class="feature-news-right">
                     <h3>সাংবাদিক রোজিনা ইসলামের নি:শ্বর্ত মুক্তির দাবীতে লণ্ডন বাংলা প্রেস ক্লাবের মানবন্ধন </h3>
@@ -3475,7 +3475,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/321232">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ukp-20210516064350.jpg" class="img-fluid" alt="ব্রিটেনে স্টুডেন্টদের জন্য লাইফ লং স্টুডেন্ট লোন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ukp-20210516064350.jpg" class="img-fluid" alt="ব্রিটেনে স্টুডেন্টদের জন্য লাইফ লং স্টুডেন্ট লোন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ব্রিটেনে স্টুডেন্টদের জন্য লাইফ লং স্টুডেন্ট লোন</h3>
@@ -3487,7 +3487,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/321182">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ukk-20210513121000.jpg" class="img-fluid" alt="ব্রিটেনে যথাযথো ধর্মীয় মর্যাদার সাথে পালন করা হলো ঈদের নামাজ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ukk-20210513121000.jpg" class="img-fluid" alt="ব্রিটেনে যথাযথো ধর্মীয় মর্যাদার সাথে পালন করা হলো ঈদের নামাজ" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ব্রিটেনে যথাযথো ধর্মীয় মর্যাদার সাথে পালন করা হলো ঈদের নামাজ</h3>
@@ -3499,7 +3499,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/319986">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/eastlondonmosqu-20210424075021.jpg" class="img-fluid" alt="ইস্ট লন্ডনের মসজিদের বিভিন্ন কার্যক্রম তুলে ধরে প্রেস কন্ফারেন্স" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/eastlondonmosqu-20210424075021.jpg" class="img-fluid" alt="ইস্ট লন্ডনের মসজিদের বিভিন্ন কার্যক্রম তুলে ধরে প্রেস কন্ফারেন্স" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ইস্ট লন্ডনের মসজিদের বিভিন্ন কার্যক্রম তুলে ধরে প্রেস কন্ফারেন্স</h3>
@@ -3519,7 +3519,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/338486">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Aug-20211216040239.jpg" class="img-fluid" alt="অস্ট্রেলিয়ায় বাউন্সি ক্যাসেল থেকে পড়ে ২ শিশু নিহত" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Aug-20211216040239.jpg" class="img-fluid" alt="অস্ট্রেলিয়ায় বাউন্সি ক্যাসেল থেকে পড়ে ২ শিশু নিহত" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>অস্ট্রেলিয়ায় বাউন্সি ক্যাসেল থেকে পড়ে ২ শিশু নিহত</h2>
@@ -3530,7 +3530,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/324341">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210629132226.jpg" class="img-fluid" alt="বাংলাদেশসহ ছয় দেশের সঙ্গে ফ্লাইট বন্ধ তুরস্কের" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210629132226.jpg" class="img-fluid" alt="বাংলাদেশসহ ছয় দেশের সঙ্গে ফ্লাইট বন্ধ তুরস্কের" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>বাংলাদেশসহ ছয় দেশের সঙ্গে ফ্লাইট বন্ধ তুরস্কের</h2>
@@ -3544,7 +3544,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/319937">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/17604986-20210423134250.jpg" class="img-fluid" alt="বিদেশে বৈশাখী জলসার স্মৃতি মন্থন।" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/17604986-20210423134250.jpg" class="img-fluid" alt="বিদেশে বৈশাখী জলসার স্মৃতি মন্থন।" />
                   </div>
                   <div class="feature-news-right">
                     <h3>বিদেশে বৈশাখী জলসার স্মৃতি মন্থন।</h3>
@@ -3556,7 +3556,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/319649">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/naz-20210420034215.jpg" class="img-fluid" alt="ফাগুন হাওয়ায় হাওয়ায় করেছি যে দান " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/naz-20210420034215.jpg" class="img-fluid" alt="ফাগুন হাওয়ায় হাওয়ায় করেছি যে দান " />
                   </div>
                   <div class="feature-news-right">
                     <h3>ফাগুন হাওয়ায় হাওয়ায় করেছি যে দান </h3>
@@ -3568,7 +3568,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/319228">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/naz-20210414035141.jpg" class="img-fluid" alt="বৈশাখী মেলায় মেতে উঠবে বাঙালী" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/naz-20210414035141.jpg" class="img-fluid" alt="বৈশাখী মেলায় মেতে উঠবে বাঙালী" />
                   </div>
                   <div class="feature-news-right">
                     <h3>বৈশাখী মেলায় মেতে উঠবে বাঙালী</h3>
@@ -3580,7 +3580,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/316943">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/17-20210320094224.jpg" class="img-fluid" alt="মালয়েশিয়ায় ২ শতাধিক অবৈধ বাংলাদেশি অভিবাসী আটক " />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/17-20210320094224.jpg" class="img-fluid" alt="মালয়েশিয়ায় ২ শতাধিক অবৈধ বাংলাদেশি অভিবাসী আটক " />
                   </div>
                   <div class="feature-news-right">
                     <h3>মালয়েশিয়ায় ২ শতাধিক অবৈধ বাংলাদেশি অভিবাসী আটক </h3>
@@ -3592,7 +3592,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/316644">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/cin-20210317121609.jpg" class="img-fluid" alt="চীনে বঙ্গবন্ধুর জন্মশতবার্ষিকী পালন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/cin-20210317121609.jpg" class="img-fluid" alt="চীনে বঙ্গবন্ধুর জন্মশতবার্ষিকী পালন" />
                   </div>
                   <div class="feature-news-right">
                     <h3>চীনে বঙ্গবন্ধুর জন্মশতবার্ষিকী পালন</h3>
@@ -3611,7 +3611,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/317666">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/554-20210326154723.jpg" class="img-fluid" alt="কুনমিংয়ে মহান স্বাধীনতার সুবর্ণ জয়ন্তী ও জাতীয় দিবস উদযাপন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/554-20210326154723.jpg" class="img-fluid" alt="কুনমিংয়ে মহান স্বাধীনতার সুবর্ণ জয়ন্তী ও জাতীয় দিবস উদযাপন" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>কুনমিংয়ে মহান স্বাধীনতার সুবর্ণ জয়ন্তী ও জাতীয় দিবস উদযাপন</h2>
@@ -3622,7 +3622,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/304735">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/54e5rft46-20201014130054.jpg" class="img-fluid" alt="ফ্রাঙ্কফুর্ট আন্তর্জাতিক বইমেলা নিয়ে কিছু কথা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/54e5rft46-20201014130054.jpg" class="img-fluid" alt="ফ্রাঙ্কফুর্ট আন্তর্জাতিক বইমেলা নিয়ে কিছু কথা" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>ফ্রাঙ্কফুর্ট আন্তর্জাতিক বইমেলা নিয়ে কিছু কথা</h2>
@@ -3645,7 +3645,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/320910">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/IMG08052021233609(725x400pixel)-20210508173704.jpg" class="img-fluid" alt="ইতালিতে সফল কাউন্সিলর শরীয়তপুরের জসিম মৃধা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/IMG08052021233609(725x400pixel)-20210508173704.jpg" class="img-fluid" alt="ইতালিতে সফল কাউন্সিলর শরীয়তপুরের জসিম মৃধা" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>ইতালিতে সফল কাউন্সিলর শরীয়তপুরের জসিম মৃধা</h2>
@@ -3656,7 +3656,7 @@ var feedify = feedify || {};
               <div class="tab-news-block for-video-icon">
                 <a href="https://www.ekusheysangbad.com/probash/news/307853">
                   <div class="tab-news-block-image icon-video">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/980980-20201214051633.jpg" class="img-fluid" alt="ইতালিতে কুমিল্লা জেলা সমিতি গঠন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/980980-20201214051633.jpg" class="img-fluid" alt="ইতালিতে কুমিল্লা জেলা সমিতি গঠন" />
                   </div>
                   <div class="tab-news-block-heading">
                   <h2>ইতালিতে কুমিল্লা জেলা সমিতি গঠন</h2>
@@ -3670,7 +3670,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/305899">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/22-20201114053114.jpg" class="img-fluid" alt="ভৈরভ উপজেলা প্রবাসী আওয়ামী লীগের ভার্চ্যুয়াল আলোচনা সভা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/22-20201114053114.jpg" class="img-fluid" alt="ভৈরভ উপজেলা প্রবাসী আওয়ামী লীগের ভার্চ্যুয়াল আলোচনা সভা" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ভৈরভ উপজেলা প্রবাসী আওয়ামী লীগের ভার্চ্যুয়াল আলোচনা সভা</h3>
@@ -3682,7 +3682,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/305398">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/1-20201031160348.jpg" class="img-fluid" alt="রোমে ফ্রান্স দূতাবাসের সামনে সমাবেশ, স্মারকলিপি প্রদান" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/1-20201031160348.jpg" class="img-fluid" alt="রোমে ফ্রান্স দূতাবাসের সামনে সমাবেশ, স্মারকলিপি প্রদান" />
                   </div>
                   <div class="feature-news-right">
                     <h3>রোমে ফ্রান্স দূতাবাসের সামনে সমাবেশ, স্মারকলিপি প্রদান</h3>
@@ -3694,7 +3694,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/304911">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/55324805303-20201020055216.jpeg" class="img-fluid" alt="সহায়তা পেলেন বসনিয়ার জঙ্গলে আটকে পড়া বাংলাদেশিরা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/55324805303-20201020055216.jpeg" class="img-fluid" alt="সহায়তা পেলেন বসনিয়ার জঙ্গলে আটকে পড়া বাংলাদেশিরা" />
                   </div>
                   <div class="feature-news-right">
                     <h3>সহায়তা পেলেন বসনিয়ার জঙ্গলে আটকে পড়া বাংলাদেশিরা</h3>
@@ -3706,7 +3706,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/304763">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/20201015011754-20201015112758.jpg" class="img-fluid" alt="ইতালিতে ইমিগ্রেশন এন্ড ল্ বিষয়ক প্রশিক্ষণ কর্মশালা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/20201015011754-20201015112758.jpg" class="img-fluid" alt="ইতালিতে ইমিগ্রেশন এন্ড ল্ বিষয়ক প্রশিক্ষণ কর্মশালা" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ইতালিতে ইমিগ্রেশন এন্ড ল্ বিষয়ক প্রশিক্ষণ কর্মশালা</h3>
@@ -3718,7 +3718,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/probash/news/304674">
                 <div class="feature-news-single">
                   <div class="feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/itali-news-lpci-20201013095629.jpg" class="img-fluid" alt="ধর্ষণের প্রতিবাদে ইতালিতে মোমবাতি প্রজ্বলন, প্রতিবাদ সভা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/itali-news-lpci-20201013095629.jpg" class="img-fluid" alt="ধর্ষণের প্রতিবাদে ইতালিতে মোমবাতি প্রজ্বলন, প্রতিবাদ সভা" />
                   </div>
                   <div class="feature-news-right">
                     <h3>ধর্ষণের প্রতিবাদে ইতালিতে মোমবাতি প্রজ্বলন, প্রতিবাদ সভা</h3>
@@ -3774,7 +3774,7 @@ var feedify = feedify || {};
           <div class="col-12 col-md-12 col-lg-6 custom-padding">
             <div class="entertainment-big">
               <a href="https://www.ekusheysangbad.com/entertainment/news/343530">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/5G6H-20220301060803.jpg" class="img-fluid" alt="শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/5G6H-20220301060803.jpg" class="img-fluid" alt="শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!" />
                 <div class="entertainment-big-text">
                   
                   <h2>শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!</h2>
@@ -3787,7 +3787,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343524">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/salman--20220301034326.jpg" class="img-fluid" alt="চুপিচুপি বিয়ে করেছেন সালমান খান!" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/salman--20220301034326.jpg" class="img-fluid" alt="চুপিচুপি বিয়ে করেছেন সালমান খান!" />
               <div class="entertainment-small-text">
                 
                 <h2>চুপিচুপি বিয়ে করেছেন সালমান খান!</h2>
@@ -3798,7 +3798,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343513">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound479624574992081079-20220228170947.jpg" class="img-fluid" alt="এবার নতুনভাবে দেখা যাবে আমাকে: বুবলি" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound479624574992081079-20220228170947.jpg" class="img-fluid" alt="এবার নতুনভাবে দেখা যাবে আমাকে: বুবলি" />
               <div class="entertainment-small-text">
                 
                 <h2>এবার নতুনভাবে দেখা যাবে আমাকে: বুবলি</h2>
@@ -3809,7 +3809,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343512">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound8725181297092644591-20220228170719.jpg" class="img-fluid" alt="মা-মাসির চরিত্র করার সময় হয়নি এখনও, ক্ষুব্ধ অভিনেত্রী সৌমিলি" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound8725181297092644591-20220228170719.jpg" class="img-fluid" alt="মা-মাসির চরিত্র করার সময় হয়নি এখনও, ক্ষুব্ধ অভিনেত্রী সৌমিলি" />
               <div class="entertainment-small-text">
                 
                 <h2>মা-মাসির চরিত্র করার সময় হয়নি এখনও, ক্ষুব্ধ অভিনেত্রী সৌমিলি</h2>
@@ -3820,7 +3820,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343511">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound6837671412027221105-20220228170506.jpg" class="img-fluid" alt="৩ কোটি টাকার গাড়ি কিনলেন শহিদ কাপুর" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound6837671412027221105-20220228170506.jpg" class="img-fluid" alt="৩ কোটি টাকার গাড়ি কিনলেন শহিদ কাপুর" />
               <div class="entertainment-small-text">
                 
                 <h2>৩ কোটি টাকার গাড়ি কিনলেন শহিদ কাপুর</h2>
@@ -3835,7 +3835,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 col-lg-3 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343499">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-23-20220228143459.jpg" class="img-fluid" alt="ইউক্রেনে পরিবার নিয়ে দুশ্চিন্তায় হিন্দি সিনেমার অভিনেত্রী" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-23-20220228143459.jpg" class="img-fluid" alt="ইউক্রেনে পরিবার নিয়ে দুশ্চিন্তায় হিন্দি সিনেমার অভিনেত্রী" />
               <div class="entertainment-small-text">
                 
                 <h2>ইউক্রেনে পরিবার নিয়ে দুশ্চিন্তায় হিন্দি সিনেমার অভিনেত্রী</h2>
@@ -3846,7 +3846,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 col-lg-3 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343488">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-18-20220228132640.jpg" class="img-fluid" alt="গান আলাপনে ঝিলিক-বিন্দু কণা" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-18-20220228132640.jpg" class="img-fluid" alt="গান আলাপনে ঝিলিক-বিন্দু কণা" />
               <div class="entertainment-small-text">
                 
                 <h2>গান আলাপনে ঝিলিক-বিন্দু কণা</h2>
@@ -3857,7 +3857,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 col-lg-3 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343409">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound307473496338289047-20220227160443.jpg" class="img-fluid" alt="প্রকাশ্যে এলো পরীমনির বেবি বাম্পের ছবি" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/inbound307473496338289047-20220227160443.jpg" class="img-fluid" alt="প্রকাশ্যে এলো পরীমনির বেবি বাম্পের ছবি" />
               <div class="entertainment-small-text">
                 
                 <h2>প্রকাশ্যে এলো পরীমনির বেবি বাম্পের ছবি</h2>
@@ -3868,7 +3868,7 @@ var feedify = feedify || {};
         <div class="col-6 col-md-6 col-lg-3 custom-padding">
           <div class="entertainment-small">
             <a href="https://www.ekusheysangbad.com/entertainment/news/343375">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220227124643.jpg" class="img-fluid" alt="শ্রুতি হাসান কোভিড পজিটিভ" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220227124643.jpg" class="img-fluid" alt="শ্রুতি হাসান কোভিড পজিটিভ" />
               <div class="entertainment-small-text">
                 
                 <h2>শ্রুতি হাসান কোভিড পজিটিভ</h2>
@@ -3882,7 +3882,7 @@ var feedify = feedify || {};
                 <div class="col-12 col-md-12 col-lg-6 custom-padding">
                   <div class="entertainment-big">
                     <a href="https://www.ekusheysangbad.com/entertainment/news/343242">
-                      <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/-20220226085746.jpg" class="img-fluid" alt="যুদ্ধ বিধ্বস্ত ইউক্রেনের পাশে প্রিয়াঙ্কা" />
+                      <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/-20220226085746.jpg" class="img-fluid" alt="যুদ্ধ বিধ্বস্ত ইউক্রেনের পাশে প্রিয়াঙ্কা" />
                       <div class="entertainment-big-text">
                         <h2>যুদ্ধ বিধ্বস্ত ইউক্রেনের পাশে প্রিয়াঙ্কা</h2>
                       </div>
@@ -3892,7 +3892,7 @@ var feedify = feedify || {};
                   <div class="row custom-row"><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343241">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226085731.jpg" class="img-fluid" alt="যুদ্ধ বিধ্বস্ত ইউক্রেনের পাশে প্রিয়াঙ্কা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226085731.jpg" class="img-fluid" alt="যুদ্ধ বিধ্বস্ত ইউক্রেনের পাশে প্রিয়াঙ্কা" />
                   <div class="entertainment-small-text">
                     
                     <h2>যুদ্ধ বিধ্বস্ত ইউক্রেনের পাশে প্রিয়াঙ্কা</h2>
@@ -3902,7 +3902,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343150">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220224101755.jpg" class="img-fluid" alt="উঠতি মডেলদের যৌন হেনস্তা, অভিযোগ উরফির!" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220224101755.jpg" class="img-fluid" alt="উঠতি মডেলদের যৌন হেনস্তা, অভিযোগ উরফির!" />
                   <div class="entertainment-small-text">
                     
                     <h2>উঠতি মডেলদের যৌন হেনস্তা, অভিযোগ উরফির!</h2>
@@ -3912,7 +3912,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343125">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220224031142.jpg" class="img-fluid" alt="এবার বলিউডে পা রাখছেন শাহরুখপুত্র আরিয়ান " />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220224031142.jpg" class="img-fluid" alt="এবার বলিউডে পা রাখছেন শাহরুখপুত্র আরিয়ান " />
                   <div class="entertainment-small-text">
                     
                     <h2>এবার বলিউডে পা রাখছেন শাহরুখপুত্র আরিয়ান </h2>
@@ -3922,7 +3922,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343038">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220223030723.jpg" class="img-fluid" alt="নতুন বিজ্ঞাপনে ‘পাঠান’ লুকে শাহরুখ" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220223030723.jpg" class="img-fluid" alt="নতুন বিজ্ঞাপনে ‘পাঠান’ লুকে শাহরুখ" />
                   <div class="entertainment-small-text">
                     
                     <h2>নতুন বিজ্ঞাপনে ‘পাঠান’ লুকে শাহরুখ</h2>
@@ -3934,7 +3934,7 @@ var feedify = feedify || {};
             </div><div class="row custom-row"><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/342677">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220219042212.jpg" class="img-fluid" alt="মাসে কত টাকা আয় করেন সালমান খান? " />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220219042212.jpg" class="img-fluid" alt="মাসে কত টাকা আয় করেন সালমান খান? " />
                   <div class="entertainment-small-text">
                     
                     <h2>মাসে কত টাকা আয় করেন সালমান খান? </h2>
@@ -3944,7 +3944,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/342507">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/০০-20220216131731.jpg" class="img-fluid" alt="বাপ্পি লাহিড়ীর যে গান বেশি জনপ্রিয় ছিল" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/০০-20220216131731.jpg" class="img-fluid" alt="বাপ্পি লাহিড়ীর যে গান বেশি জনপ্রিয় ছিল" />
                   <div class="entertainment-small-text">
                     
                     <h2>বাপ্পি লাহিড়ীর যে গান বেশি জনপ্রিয় ছিল</h2>
@@ -3954,7 +3954,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/342469">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220216103739.jpg" class="img-fluid" alt="সামাজিক যোগাযোগ মাধ্যমে বাপ্পি লাহিড়ির শেষ পোস্ট" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220216103739.jpg" class="img-fluid" alt="সামাজিক যোগাযোগ মাধ্যমে বাপ্পি লাহিড়ির শেষ পোস্ট" />
                   <div class="entertainment-small-text">
                     
                     <h2>সামাজিক যোগাযোগ মাধ্যমে বাপ্পি লাহিড়ির শেষ পোস্ট</h2>
@@ -3964,7 +3964,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/341531">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220201112819.jpg" class="img-fluid" alt="মালদ্বীপে উষ্ণতা ছড়াচ্ছেন সানি লিওন" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220201112819.jpg" class="img-fluid" alt="মালদ্বীপে উষ্ণতা ছড়াচ্ছেন সানি লিওন" />
                   <div class="entertainment-small-text">
                     
                     <h2>মালদ্বীপে উষ্ণতা ছড়াচ্ছেন সানি লিওন</h2>
@@ -3977,7 +3977,7 @@ var feedify = feedify || {};
                 <div class="col-12 col-md-12 col-lg-6 custom-padding">
                   <div class="entertainment-big">
                     <a href="https://www.ekusheysangbad.com/entertainment/news/343530">
-                      <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/5G6H-20220301060803.jpg" class="img-fluid" alt="শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!" />
+                      <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/5G6H-20220301060803.jpg" class="img-fluid" alt="শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!" />
                       <div class="entertainment-big-text">
                         <h2>শ্রাবন্তীর নামে মামলা, হতে পারে ৭ বছরের কারাদণ্ড!</h2>
                       </div>
@@ -3987,7 +3987,7 @@ var feedify = feedify || {};
                   <div class="row custom-row"><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343375">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220227124643.jpg" class="img-fluid" alt="শ্রুতি হাসান কোভিড পজিটিভ" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220227124643.jpg" class="img-fluid" alt="শ্রুতি হাসান কোভিড পজিটিভ" />
                   <div class="entertainment-small-text">
                     
                     <h2>শ্রুতি হাসান কোভিড পজিটিভ</h2>
@@ -3997,7 +3997,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343243">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226090551.jpg" class="img-fluid" alt="শরীর নিয়ে কটাক্ষ, জবাব দিলেন ম্রুনাল" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226090551.jpg" class="img-fluid" alt="শরীর নিয়ে কটাক্ষ, জবাব দিলেন ম্রুনাল" />
                   <div class="entertainment-small-text">
                     
                     <h2>শরীর নিয়ে কটাক্ষ, জবাব দিলেন ম্রুনাল</h2>
@@ -4007,7 +4007,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343072">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220223113448.jpg" class="img-fluid" alt="হলুদ শাড়িতে আবেদনময়ী কিয়ারা, চোখ ফেরানো দায়!" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-20220223113448.jpg" class="img-fluid" alt="হলুদ শাড়িতে আবেদনময়ী কিয়ারা, চোখ ফেরানো দায়!" />
                   <div class="entertainment-small-text">
                     
                     <h2>হলুদ শাড়িতে আবেদনময়ী কিয়ারা, চোখ ফেরানো দায়!</h2>
@@ -4017,7 +4017,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343037">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/U7I7I-20220223030247.jpg" class="img-fluid" alt="রশ্মিকার সঙ্গে বিয়ের গুঞ্জন, মুখ খুললেন বিজয় দেভেরাকোন্ডা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/U7I7I-20220223030247.jpg" class="img-fluid" alt="রশ্মিকার সঙ্গে বিয়ের গুঞ্জন, মুখ খুললেন বিজয় দেভেরাকোন্ডা" />
                   <div class="entertainment-small-text">
                     
                     <h2>রশ্মিকার সঙ্গে বিয়ের গুঞ্জন, মুখ খুললেন বিজয় দেভেরাকোন্ডা</h2>
@@ -4029,7 +4029,7 @@ var feedify = feedify || {};
             </div><div class="row custom-row"><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/329601">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/jems-bond-20210824055448.jpg" class="img-fluid" alt="অবশেষে মুক্তির তারিখ ঘোষণা করলো ‘জেমস বন্ড’" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/jems-bond-20210824055448.jpg" class="img-fluid" alt="অবশেষে মুক্তির তারিখ ঘোষণা করলো ‘জেমস বন্ড’" />
                   <div class="entertainment-small-text">
                     
                     <h2>অবশেষে মুক্তির তারিখ ঘোষণা করলো ‘জেমস বন্ড’</h2>
@@ -4039,7 +4039,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/329600">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/dswr-20210824054626.jpg" class="img-fluid" alt="আবারও মা হতে চলেছেন অভিনেত্রী স্কারলেট" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/dswr-20210824054626.jpg" class="img-fluid" alt="আবারও মা হতে চলেছেন অভিনেত্রী স্কারলেট" />
                   <div class="entertainment-small-text">
                     
                     <h2>আবারও মা হতে চলেছেন অভিনেত্রী স্কারলেট</h2>
@@ -4052,7 +4052,7 @@ var feedify = feedify || {};
                 <div class="col-12 col-md-12 col-lg-6 custom-padding">
                   <div class="entertainment-big">
                     <a href="https://www.ekusheysangbad.com/entertainment/news/343488">
-                      <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-18-20220228132640.jpg" class="img-fluid" alt="গান আলাপনে ঝিলিক-বিন্দু কণা" />
+                      <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-18-20220228132640.jpg" class="img-fluid" alt="গান আলাপনে ঝিলিক-বিন্দু কণা" />
                       <div class="entertainment-big-text">
                         <h2>গান আলাপনে ঝিলিক-বিন্দু কণা</h2>
                       </div>
@@ -4062,7 +4062,7 @@ var feedify = feedify || {};
                   <div class="row custom-row"><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343374">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-10-20220227123723.jpg" class="img-fluid" alt="সাতসকালে শ্রীলেখার গায়ে ভালোবাসার আঁচড়!" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-10-20220227123723.jpg" class="img-fluid" alt="সাতসকালে শ্রীলেখার গায়ে ভালোবাসার আঁচড়!" />
                   <div class="entertainment-small-text">
                     
                     <h2>সাতসকালে শ্রীলেখার গায়ে ভালোবাসার আঁচড়!</h2>
@@ -4072,7 +4072,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343371">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220227122900.jpg" class="img-fluid" alt="ইলিয়াসের মামলা, যেকোনো সময় গ্রেফতার হতে পারেন সুবাহ" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220227122900.jpg" class="img-fluid" alt="ইলিয়াসের মামলা, যেকোনো সময় গ্রেফতার হতে পারেন সুবাহ" />
                   <div class="entertainment-small-text">
                     
                     <h2>ইলিয়াসের মামলা, যেকোনো সময় গ্রেফতার হতে পারেন সুবাহ</h2>
@@ -4082,7 +4082,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343370">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-8-20220227122554.jpg" class="img-fluid" alt="জাহ্নবীর রূপের আগুনে পুড়ছেন ভক্তরা!" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-8-20220227122554.jpg" class="img-fluid" alt="জাহ্নবীর রূপের আগুনে পুড়ছেন ভক্তরা!" />
                   <div class="entertainment-small-text">
                     
                     <h2>জাহ্নবীর রূপের আগুনে পুড়ছেন ভক্তরা!</h2>
@@ -4092,7 +4092,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343238">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226084433.jpg" class="img-fluid" alt="আত্মহত্যার হুমকি দিলেন নাসরিন!" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226084433.jpg" class="img-fluid" alt="আত্মহত্যার হুমকি দিলেন নাসরিন!" />
                   <div class="entertainment-small-text">
                     
                     <h2>আত্মহত্যার হুমকি দিলেন নাসরিন!</h2>
@@ -4104,7 +4104,7 @@ var feedify = feedify || {};
             </div><div class="row custom-row"><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343223">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226025348.jpg" class="img-fluid" alt="নতুন প্রেমে হাবুডুবু খাচ্ছেন প্রভা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220226025348.jpg" class="img-fluid" alt="নতুন প্রেমে হাবুডুবু খাচ্ছেন প্রভা" />
                   <div class="entertainment-small-text">
                     
                     <h2>নতুন প্রেমে হাবুডুবু খাচ্ছেন প্রভা</h2>
@@ -4114,7 +4114,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343206">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1645712006Apu-biswas-20220225033517.jpg" class="img-fluid" alt="কামাখ্যা মন্দিরে গিয়ে পূজা দিলেন অপু বিশ্বাস" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/1645712006Apu-biswas-20220225033517.jpg" class="img-fluid" alt="কামাখ্যা মন্দিরে গিয়ে পূজা দিলেন অপু বিশ্বাস" />
                   <div class="entertainment-small-text">
                     
                     <h2>কামাখ্যা মন্দিরে গিয়ে পূজা দিলেন অপু বিশ্বাস</h2>
@@ -4124,7 +4124,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343144">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-20220224100356.jpg" class="img-fluid" alt="নিপুণের বিরুদ্ধে জায়েদ খানের আদালত অবমাননার মামলা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-1-20220224100356.jpg" class="img-fluid" alt="নিপুণের বিরুদ্ধে জায়েদ খানের আদালত অবমাননার মামলা" />
                   <div class="entertainment-small-text">
                     
                     <h2>নিপুণের বিরুদ্ধে জায়েদ খানের আদালত অবমাননার মামলা</h2>
@@ -4134,7 +4134,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/343000">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220222130948.jpg" class="img-fluid" alt="নিষেধাজ্ঞা কাটলো, ভারত যাচ্ছেন ফেরদৌস" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220222130948.jpg" class="img-fluid" alt="নিষেধাজ্ঞা কাটলো, ভারত যাচ্ছেন ফেরদৌস" />
                   <div class="entertainment-small-text">
                     
                     <h2>নিষেধাজ্ঞা কাটলো, ভারত যাচ্ছেন ফেরদৌস</h2>
@@ -4147,7 +4147,7 @@ var feedify = feedify || {};
                 <div class="col-12 col-md-12 col-lg-6 custom-padding">
                   <div class="entertainment-big">
                     <a href="https://www.ekusheysangbad.com/entertainment/news/342899">
-                      <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-8-20220221114223.jpg" class="img-fluid" alt="বোরকা পরে দুনিয়া মাতাচ্ছেন কে এই র‍্যাপার? " />
+                      <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/Untitled-8-20220221114223.jpg" class="img-fluid" alt="বোরকা পরে দুনিয়া মাতাচ্ছেন কে এই র‍্যাপার? " />
                       <div class="entertainment-big-text">
                         <h2>বোরকা পরে দুনিয়া মাতাচ্ছেন কে এই র‍্যাপার? </h2>
                       </div>
@@ -4157,7 +4157,7 @@ var feedify = feedify || {};
                   <div class="row custom-row"><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/342808">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220220113314.jpg" class="img-fluid" alt="বিয়ের ঘোষণার পর প্রসেনজিতের বাড়িতে ঋতুপর্ণা!" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220220113314.jpg" class="img-fluid" alt="বিয়ের ঘোষণার পর প্রসেনজিতের বাড়িতে ঋতুপর্ণা!" />
                   <div class="entertainment-small-text">
                     
                     <h2>বিয়ের ঘোষণার পর প্রসেনজিতের বাড়িতে ঋতুপর্ণা!</h2>
@@ -4167,7 +4167,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/342201">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220213120739.jpg" class="img-fluid" alt="আমি সিঙ্গেল জীবনেই খুশি-মিমি" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220213120739.jpg" class="img-fluid" alt="আমি সিঙ্গেল জীবনেই খুশি-মিমি" />
                   <div class="entertainment-small-text">
                     
                     <h2>আমি সিঙ্গেল জীবনেই খুশি-মিমি</h2>
@@ -4177,7 +4177,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/329471">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/dge-20210823044527.jpg" class="img-fluid" alt="তবে কি বিয়ে করলেন অভিনেত্রী তনুশ্রী চক্রবর্তী?" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/dge-20210823044527.jpg" class="img-fluid" alt="তবে কি বিয়ে করলেন অভিনেত্রী তনুশ্রী চক্রবর্তী?" />
                   <div class="entertainment-small-text">
                     
                     <h2>তবে কি বিয়ে করলেন অভিনেত্রী তনুশ্রী চক্রবর্তী?</h2>
@@ -4187,7 +4187,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/329219">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/geer-20210820084007.jpg" class="img-fluid" alt="ফের শ্রাবন্তীকে খোঁচা মেরে একি বললেন রোশন" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/geer-20210820084007.jpg" class="img-fluid" alt="ফের শ্রাবন্তীকে খোঁচা মেরে একি বললেন রোশন" />
                   <div class="entertainment-small-text">
                     
                     <h2>ফের শ্রাবন্তীকে খোঁচা মেরে একি বললেন রোশন</h2>
@@ -4199,7 +4199,7 @@ var feedify = feedify || {};
             </div><div class="row custom-row"><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/329171">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/gerte-20210819113351.jpg" class="img-fluid" alt="বিবাহ বিচ্ছেদ মামলায় আইনজীবী বদলালেন নুসরাত" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/gerte-20210819113351.jpg" class="img-fluid" alt="বিবাহ বিচ্ছেদ মামলায় আইনজীবী বদলালেন নুসরাত" />
                   <div class="entertainment-small-text">
                     
                     <h2>বিবাহ বিচ্ছেদ মামলায় আইনজীবী বদলালেন নুসরাত</h2>
@@ -4209,7 +4209,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/329100">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/dfer-20210818151613.jpg" class="img-fluid" alt="বিয়ের আগেই ঐন্দ্রিলার জন্য বাড়িতে ‍‍`সতীন‍‍` আনলেন অঙ্কুশ!" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/dfer-20210818151613.jpg" class="img-fluid" alt="বিয়ের আগেই ঐন্দ্রিলার জন্য বাড়িতে ‍‍`সতীন‍‍` আনলেন অঙ্কুশ!" />
                   <div class="entertainment-small-text">
                     
                     <h2>বিয়ের আগেই ঐন্দ্রিলার জন্য বাড়িতে ‍‍`সতীন‍‍` আনলেন অঙ্কুশ!</h2>
@@ -4219,7 +4219,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/328889">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/fgrt-20210816121147.jpg" class="img-fluid" alt="‘নির্ভীকভাবে নিজের মতামত প্রকাশ করা আমার কাছে স্বাধীনতা’ : কোয়েল" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/fgrt-20210816121147.jpg" class="img-fluid" alt="‘নির্ভীকভাবে নিজের মতামত প্রকাশ করা আমার কাছে স্বাধীনতা’ : কোয়েল" />
                   <div class="entertainment-small-text">
                     
                     <h2>‘নির্ভীকভাবে নিজের মতামত প্রকাশ করা আমার কাছে স্বাধীনতা’ : কোয়েল</h2>
@@ -4229,7 +4229,7 @@ var feedify = feedify || {};
             </div><div class="col-6 col-md-6 col-lg-3 custom-padding">
               <div class="entertainment-small">
                 <a href="https://www.ekusheysangbad.com/entertainment/news/328870">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210816095326.jpg" class="img-fluid" alt="সস্ত্রীক হানিমুনে মডেল নিলয়" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210816095326.jpg" class="img-fluid" alt="সস্ত্রীক হানিমুনে মডেল নিলয়" />
                   <div class="entertainment-small-text">
                     
                     <h2>সস্ত্রীক হানিমুনে মডেল নিলয়</h2>
@@ -4261,7 +4261,7 @@ var feedify = feedify || {};
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/education/news/343503">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-26-20220228144502.jpg" class="img-fluid" alt="মেডিকেলে ভর্তির আবেদন শুরু" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-26-20220228144502.jpg" class="img-fluid" alt="মেডিকেলে ভর্তির আবেদন শুরু" />
             <div class="new-feature-lead-text">
             
             <h2>মেডিকেলে ভর্তির আবেদন শুরু</h2>
@@ -4273,7 +4273,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/education/news/343502">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-25-20220228144146.jpg" class="img-fluid" alt="প্রাথমিকের ক্লাস ২০ রমজান পর্যন্ত" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-25-20220228144146.jpg" class="img-fluid" alt="প্রাথমিকের ক্লাস ২০ রমজান পর্যন্ত" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4286,7 +4286,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/education/news/343458">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/resize-(1)-20220228113805.jpeg" class="img-fluid" alt="দুই পাবলিক বিশ্ববিদ্যালয়ের অনুমোদন" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/resize-(1)-20220228113805.jpeg" class="img-fluid" alt="দুই পাবলিক বিশ্ববিদ্যালয়ের অনুমোদন" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4299,7 +4299,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/education/news/343410">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/edf058da7c74d95705b346565acacef45bbf71c2b2acd3ba-20220227163325.jpg" class="img-fluid" alt="এসএসসি পরীক্ষা জুনে , আগস্টে এইচএসসি পরীক্ষা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/edf058da7c74d95705b346565acacef45bbf71c2b2acd3ba-20220227163325.jpg" class="img-fluid" alt="এসএসসি পরীক্ষা জুনে , আগস্টে এইচএসসি পরীক্ষা" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4312,7 +4312,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/education/news/343379">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-14-20220227125604.jpg" class="img-fluid" alt="গবেষণা মঞ্জুরি আরও বাড়ানোর দাবি বিশ্ববিদ্যালয় পরিষদের" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-14-20220227125604.jpg" class="img-fluid" alt="গবেষণা মঞ্জুরি আরও বাড়ানোর দাবি বিশ্ববিদ্যালয় পরিষদের" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4333,7 +4333,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/media-news/news/343385">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-18-20220227131608.jpg" class="img-fluid" alt="দ্য নিউ নেশনের সম্পাদক এ এম মুফাজ্জল আর নেই" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-18-20220227131608.jpg" class="img-fluid" alt="দ্য নিউ নেশনের সম্পাদক এ এম মুফাজ্জল আর নেই" />
               <div class="new-feature-lead-text">
                 
                 <h2>দ্য নিউ নেশনের সম্পাদক এ এম মুফাজ্জল আর নেই</h2>
@@ -4345,7 +4345,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/media-news/news/343182">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received723702415702333-(1)-20220224142341.jpeg" class="img-fluid" alt="নানা আয়োজনে নোবিপ্রবি প্রেসক্লাবের ৩য় প্রতিষ্ঠাবার্ষিকী উদযাপন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received723702415702333-(1)-20220224142341.jpeg" class="img-fluid" alt="নানা আয়োজনে নোবিপ্রবি প্রেসক্লাবের ৩য় প্রতিষ্ঠাবার্ষিকী উদযাপন" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4358,7 +4358,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/media-news/news/343159">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220224113955.jpg" class="img-fluid" alt="বাসসের এমডি পদে আবারও নিয়োগ পেলেন আবুল কালাম আজাদ" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-9-20220224113955.jpg" class="img-fluid" alt="বাসসের এমডি পদে আবারও নিয়োগ পেলেন আবুল কালাম আজাদ" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4371,7 +4371,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/media-news/news/342907">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-15-20220221122148.jpg" class="img-fluid" alt="ভাষা শহীদদের প্রতি ডিআরইউ’র শ্রদ্ধা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-15-20220221122148.jpg" class="img-fluid" alt="ভাষা শহীদদের প্রতি ডিআরইউ’র শ্রদ্ধা" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4384,7 +4384,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/media-news/news/342309">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received488248822659286-20220214121834.jpeg" class="img-fluid" alt="ঠাকুরগাঁও সাংবাদিক ফোরামের কমিটি গঠন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received488248822659286-20220214121834.jpeg" class="img-fluid" alt="ঠাকুরগাঁও সাংবাদিক ফোরামের কমিটি গঠন" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4407,7 +4407,7 @@ var feedify = feedify || {};
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/feature/news/336955">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/BeFunky-collage-9-20211124155345.jpg" class="img-fluid" alt="চট্টগ্রাম-সেন্টমার্টিন যেতে MV Bay One এর সময়সূচি" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/BeFunky-collage-9-20211124155345.jpg" class="img-fluid" alt="চট্টগ্রাম-সেন্টমার্টিন যেতে MV Bay One এর সময়সূচি" />
             <div class="new-feature-lead-text">
             
             <h2>চট্টগ্রাম-সেন্টমার্টিন যেতে MV Bay One এর সময়সূচি</h2>
@@ -4419,7 +4419,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/feature/news/336526">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/IMG20211118163759-20211118124124.jpg" class="img-fluid" alt="উলিপুরে শীতের আগমনী বার্তায় বেড়েছে লেপ তোষকের চাহিদা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/IMG20211118163759-20211118124124.jpg" class="img-fluid" alt="উলিপুরে শীতের আগমনী বার্তায় বেড়েছে লেপ তোষকের চাহিদা" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4432,7 +4432,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/feature/news/336007">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ছবি-20211111114935.jpg" class="img-fluid" alt="দারাজে শুরু হয়ে গেল বিগেস্ট ওয়ান ডে সেল" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/ছবি-20211111114935.jpg" class="img-fluid" alt="দারাজে শুরু হয়ে গেল বিগেস্ট ওয়ান ডে সেল" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4445,7 +4445,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/feature/news/335110">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/images(1)-20211029055857.jpg" class="img-fluid" alt="অযত্নেই বিলুপ্তির পথে হরিপুরের রাজবাড়ি" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/images(1)-20211029055857.jpg" class="img-fluid" alt="অযত্নেই বিলুপ্তির পথে হরিপুরের রাজবাড়ি" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4458,7 +4458,7 @@ var feedify = feedify || {};
             <a href="https://www.ekusheysangbad.com/feature/news/328264">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210809085921.jpg" class="img-fluid" alt="বয়ঃসন্ধি কালে যা যা লক্ষন দেখা যায়" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210809085921.jpg" class="img-fluid" alt="বয়ঃসন্ধি কালে যা যা লক্ষন দেখা যায়" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -4480,7 +4480,7 @@ var feedify = feedify || {};
           
           <div class="new-feature-lead">
             <a href="https://www.ekusheysangbad.com/campus/news/343407">
-              <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Gopalganj-University-Photo-01(27022022)-20220227155538.jpg" class="img-fluid" alt="বশেমুরবিপ্রবি-র ক্লাস ও পরীক্ষা বন্ধ ঘোষণ" />
+              <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Gopalganj-University-Photo-01(27022022)-20220227155538.jpg" class="img-fluid" alt="বশেমুরবিপ্রবি-র ক্লাস ও পরীক্ষা বন্ধ ঘোষণ" />
               <div class="new-feature-lead-text">
                 
                 <h2>বশেমুরবিপ্রবি-র ক্লাস ও পরীক্ষা বন্ধ ঘোষণ</h2>
@@ -4492,7 +4492,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/campus/news/343404">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received486002563151829-(1)-20220227154238.jpeg" class="img-fluid" alt="৮ই মার্চ জবির প্রথম বর্ষের ক্লাস শুরু" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received486002563151829-(1)-20220227154238.jpeg" class="img-fluid" alt="৮ই মার্চ জবির প্রথম বর্ষের ক্লাস শুরু" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4505,7 +4505,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/campus/news/343402">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(24)-20220227153046.jpeg" class="img-fluid" alt="জবির ভর্তির অনিয়মে চরম ভোগান্তিতে শিক্ষার্থীরা" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(24)-20220227153046.jpeg" class="img-fluid" alt="জবির ভর্তির অনিয়মে চরম ভোগান্তিতে শিক্ষার্থীরা" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4518,7 +4518,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/campus/news/343400">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Gopalganj-Human-Chain-Photo-01(27022022)-20220227151210.jpg" class="img-fluid" alt="ব‌শেমুর‌বিপ্রবি-‌তে মানববন্ধন" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Gopalganj-Human-Chain-Photo-01(27022022)-20220227151210.jpg" class="img-fluid" alt="ব‌শেমুর‌বিপ্রবি-‌তে মানববন্ধন" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4531,7 +4531,7 @@ var feedify = feedify || {};
               <a href="https://www.ekusheysangbad.com/campus/news/343393">
               <div class="new-feature-news-single">
               <div class="new-feature-news-left">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1130509841030224-20220227140738.jpeg" class="img-fluid" alt="নোবিপ্রবিতে জাতীয় পরিসংখ্যান দিবস পালিত" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1130509841030224-20220227140738.jpeg" class="img-fluid" alt="নোবিপ্রবিতে জাতীয় পরিসংখ্যান দিবস পালিত" />
                   </div>
                   <div class="new-feature-news-right">
                   
@@ -4564,7 +4564,7 @@ var feedify = feedify || {};
               <div class="country-news-lead">
                 <a href="https://www.ekusheysangbad.com/country/news/343537">
                   <div class="country-news-lead-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/27488526448486633385866914191724513481897027n-20220301064656.jpg" class="img-fluid" alt="যদি আওয়ামী লীগ ক্ষমতায় থাকে, আপনারা আর কোনোদিন ভোট দিতে পারবেন নাঃ চট্টগ্রামে মির্জা আব্বাস" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/27488526448486633385866914191724513481897027n-20220301064656.jpg" class="img-fluid" alt="যদি আওয়ামী লীগ ক্ষমতায় থাকে, আপনারা আর কোনোদিন ভোট দিতে পারবেন নাঃ চট্টগ্রামে মির্জা আব্বাস" />
                   </div>
                   <div class="country-news-lead-text">
                     <span>  </span>
@@ -4575,7 +4575,7 @@ var feedify = feedify || {};
               <div class="country-news-lead">
                 <a href="https://www.ekusheysangbad.com/country/news/343536">
                   <div class="country-news-lead-image">
-                    <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fire-2--20220301063554.jpg" class="img-fluid" alt="রাজশাহীতে অটো গ্যারেজে আগুন, ৬০ লক্ষ টাকার ক্ষয়-ক্ষতি" />
+                    <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/fire-2--20220301063554.jpg" class="img-fluid" alt="রাজশাহীতে অটো গ্যারেজে আগুন, ৬০ লক্ষ টাকার ক্ষয়-ক্ষতি" />
                   </div>
                   <div class="country-news-lead-text">
                     <span>  </span>
@@ -4589,7 +4589,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343535">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(1)-20220301062829.jpg" class="img-fluid" alt="কুতুবদিয়া উপজেলা স্বাস্থ্য কমপ্লেক্সে ৮ ডাক্তারের যোগদান " />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/download-(1)-20220301062829.jpg" class="img-fluid" alt="কুতুবদিয়া উপজেলা স্বাস্থ্য কমপ্লেক্সে ৮ ডাক্তারের যোগদান " />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4600,7 +4600,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343534">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1033142804252252-20220301062159.jpeg" class="img-fluid" alt="রাণীশংকৈলে নিত্যপণ্যের দাম বাড়তিতে ক্রেতাদের নাভিশ্বাস" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received1033142804252252-20220301062159.jpeg" class="img-fluid" alt="রাণীশংকৈলে নিত্যপণ্যের দাম বাড়তিতে ক্রেতাদের নাভিশ্বাস" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4611,7 +4611,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343529">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received289198979950234-20220301051616.jpeg" class="img-fluid" alt="অযোগ্য সরকার দেশকে অকার্যকর করে তুলেছে :আব্দুল্লাহ আল নোমান" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/received289198979950234-20220301051616.jpeg" class="img-fluid" alt="অযোগ্য সরকার দেশকে অকার্যকর করে তুলেছে :আব্দুল্লাহ আল নোমান" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4622,7 +4622,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343528">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Birgonj-Pic--01-03-2022-20220301050809.jpg" class="img-fluid" alt="বীরগঞ্জে সোনালী ব্যাংকে ফরেন রেমিটেন্স গ্রাহক সমাবেশ অনুষ্ঠিত হয়েছে" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Birgonj-Pic--01-03-2022-20220301050809.jpg" class="img-fluid" alt="বীরগঞ্জে সোনালী ব্যাংকে ফরেন রেমিটেন্স গ্রাহক সমাবেশ অনুষ্ঠিত হয়েছে" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4633,7 +4633,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343527">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220301103750-20220301050404.jpg" class="img-fluid" alt="চট্টগ্রাম কাস্টমসের জব্দ সুতার বদলে সিগারেটের চালান" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220301103750-20220301050404.jpg" class="img-fluid" alt="চট্টগ্রাম কাস্টমসের জব্দ সুতার বদলে সিগারেটের চালান" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4648,7 +4648,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343508">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/child-death-inner-1912231510-20220228151126.jpg" class="img-fluid" alt="লালমোহনে পুকুরের পানিতে ডুবে শিশুর মৃত্যু" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/child-death-inner-1912231510-20220228151126.jpg" class="img-fluid" alt="লালমোহনে পুকুরের পানিতে ডুবে শিশুর মৃত্যু" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4659,7 +4659,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343507">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/io-20220228150223.jpg" class="img-fluid" alt="নরসিংদীতে মেঘনায় অবৈধ মাছের ঘের উচ্ছেদ করলো নৌ পুলিশ" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/io-20220228150223.jpg" class="img-fluid" alt="নরসিংদীতে মেঘনায় অবৈধ মাছের ঘের উচ্ছেদ করলো নৌ পুলিশ" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4670,7 +4670,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343504">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/image-425763-1622324591-20220228144837.jpg" class="img-fluid" alt="ময়মনসিংহে বেড়েই চলেছে নিত্যপণ্যের দাম" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/image-425763-1622324591-20220228144837.jpg" class="img-fluid" alt="ময়মনসিংহে বেড়েই চলেছে নিত্যপণ্যের দাম" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4681,7 +4681,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343501">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/FBIMG1646055907024-20220228143848.jpg" class="img-fluid" alt="চিলমারীতে হাট-বাজারগুলোতে ভেজাল সার ও কীটনাশক ঔষধে সয়লাব" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/FBIMG1646055907024-20220228143848.jpg" class="img-fluid" alt="চিলমারীতে হাট-বাজারগুলোতে ভেজাল সার ও কীটনাশক ঔষধে সয়লাব" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -4692,7 +4692,7 @@ var feedify = feedify || {};
           <li>
             <a href="https://www.ekusheysangbad.com/country/news/343498">
               <div class="country-news-ul-left">
-                <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220228201248-20220228142953.jpg" class="img-fluid" alt="বাঁশখালীতে আগুনে পুড়ল ৩৪ বসত ঘর ভস্মিভুত" />
+                <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220228201248-20220228142953.jpg" class="img-fluid" alt="বাঁশখালীতে আগুনে পুড়ল ৩৪ বসত ঘর ভস্মিভুত" />
               </div>
               <div class="country-news-ul-right">
                 
@@ -5931,7 +5931,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/special-report/news/338154">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/66699-20211212062425.jpg" class="img-fluid" alt="সেনাবাহিনী যে কোনো সময়ের তুলনায় অনেক বেশি উন্নত, স্বয়ংসম্পূর্ণ : প্রধানমন্ত্রী" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/66699-20211212062425.jpg" class="img-fluid" alt="সেনাবাহিনী যে কোনো সময়ের তুলনায় অনেক বেশি উন্নত, স্বয়ংসম্পূর্ণ : প্রধানমন্ত্রী" />
             <div class="new-feature-lead-text">
             
             <h2>সেনাবাহিনী যে কোনো সময়ের তুলনায় অনেক বেশি উন্নত, স্বয়ংসম্পূর্ণ : প্রধানমন্ত্রী</h2>
@@ -5943,7 +5943,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/special-report/news/337785">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/25-5-20211206104227.jpg" class="img-fluid" alt="   মেয়র আব্বাসের ৩ দিনের রিমান্ড মঞ্জুর  " />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/25-5-20211206104227.jpg" class="img-fluid" alt="   মেয়র আব্বাসের ৩ দিনের রিমান্ড মঞ্জুর  " />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -5956,7 +5956,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/special-report/news/337756">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Capture-20211206071822.JPG" class="img-fluid" alt="সু চির ৪ বছরের কারাদণ্ড" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Capture-20211206071822.JPG" class="img-fluid" alt="সু চির ৪ বছরের কারাদণ্ড" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -5969,7 +5969,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/special-report/news/335567">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211104102036.jpg" class="img-fluid" alt="প্রতিমাসে ১৮ লাখ কর্মঘণ্টা অপচয় " />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20211104102036.jpg" class="img-fluid" alt="প্রতিমাসে ১৮ লাখ কর্মঘণ্টা অপচয় " />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -5982,7 +5982,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/special-report/news/333436">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/55-20211011040528.jpg" class="img-fluid" alt="আজ মহাষ্টমী কাল মহাসপ্তমী" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/55-20211011040528.jpg" class="img-fluid" alt="আজ মহাষ্টমী কাল মহাসপ্তমী" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6004,7 +6004,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/opar-bangla/news/326463">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Mamata-Banerjee-11-20210722162459.jpg" class="img-fluid" alt="কেন ‍‍`খেলা হবে দিবস‍‍` ১৬ অগাস্ট : মমতা" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Mamata-Banerjee-11-20210722162459.jpg" class="img-fluid" alt="কেন ‍‍`খেলা হবে দিবস‍‍` ১৬ অগাস্ট : মমতা" />
             <div class="new-feature-lead-text">
             
             <h2>কেন ‍‍`খেলা হবে দিবস‍‍` ১৬ অগাস্ট : মমতা</h2>
@@ -6016,7 +6016,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/opar-bangla/news/325516">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210712061530.jpg" class="img-fluid" alt="কলকাতায় বাংলাদেশি জঙ্গি গ্রেপ্তার" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210712061530.jpg" class="img-fluid" alt="কলকাতায় বাংলাদেশি জঙ্গি গ্রেপ্তার" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6029,7 +6029,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/opar-bangla/news/325333">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210710094545.jpg" class="img-fluid" alt="অন্তরঙ্গ ছবি ফাঁসের হুমকি, তরুণীর আত্মাহত্যা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210710094545.jpg" class="img-fluid" alt="অন্তরঙ্গ ছবি ফাঁসের হুমকি, তরুণীর আত্মাহত্যা" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6042,7 +6042,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/opar-bangla/news/324589">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/INDIA-20210702123631.jpg" class="img-fluid" alt="ওয়েলে নেমে নজিরবিহীন বিক্ষোভ বিজেপির, শেষ না করেই বিধানসভা ছাড়লেন রাজ্যপাল" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/INDIA-20210702123631.jpg" class="img-fluid" alt="ওয়েলে নেমে নজিরবিহীন বিক্ষোভ বিজেপির, শেষ না করেই বিধানসভা ছাড়লেন রাজ্যপাল" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6055,7 +6055,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/opar-bangla/news/323528">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/mamota-20210618062436.jpg" class="img-fluid" alt="নন্দীগ্রাম আসনের ফল নিয়ে হাইকোর্টে মমতা, শুনানি আজ" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/mamota-20210618062436.jpg" class="img-fluid" alt="নন্দীগ্রাম আসনের ফল নিয়ে হাইকোর্টে মমতা, শুনানি আজ" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6077,7 +6077,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/tourism/news/337240">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/পাশেই--মানের-বিমানবন্দর-20211128133949.jpg" class="img-fluid" alt="ঢাকার পাশেই হবে আন্তর্জাতিক মানের বিমানবন্দর: বিমান প্রতিমন্ত্রী" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/পাশেই--মানের-বিমানবন্দর-20211128133949.jpg" class="img-fluid" alt="ঢাকার পাশেই হবে আন্তর্জাতিক মানের বিমানবন্দর: বিমান প্রতিমন্ত্রী" />
             <div class="new-feature-lead-text">
             
             <h2>ঢাকার পাশেই হবে আন্তর্জাতিক মানের বিমানবন্দর: বিমান প্রতিমন্ত্রী</h2>
@@ -6089,7 +6089,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/tourism/news/336820">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Biman-Bangladesh-Airlines-20211122145648.jpg" class="img-fluid" alt="২ ডিসেম্বর বাংলাদেশ থেকে বিমান যাবে থাইল্যান্ডে" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Biman-Bangladesh-Airlines-20211122145648.jpg" class="img-fluid" alt="২ ডিসেম্বর বাংলাদেশ থেকে বিমান যাবে থাইল্যান্ডে" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6102,7 +6102,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/tourism/news/334695">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/63178n-20211023114837.jpg" class="img-fluid" alt="বঙ্গবন্ধু শেখ মুজিব সাফারী পার্কে দুটি মাদি সাম্বার হরিণ অবমুক্ত" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/63178n-20211023114837.jpg" class="img-fluid" alt="বঙ্গবন্ধু শেখ মুজিব সাফারী পার্কে দুটি মাদি সাম্বার হরিণ অবমুক্ত" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6115,7 +6115,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/tourism/news/334403">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/kiyaring-20211020072301.jpg" class="img-fluid" alt="পানির বুকে ভেসে বেড়াতে চলে আসুন সাভার কায়াকিং পয়েন্টে" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/kiyaring-20211020072301.jpg" class="img-fluid" alt="পানির বুকে ভেসে বেড়াতে চলে আসুন সাভার কায়াকিং পয়েন্টে" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6128,7 +6128,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/tourism/news/333121">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/us-bangla-risingbd-20211006122346.jpg" class="img-fluid" alt="৯ নভেম্বর থেকে ঢাকা-মালে-ঢাকা রুটে সরাসরি ফ্লাইট শুরু করতে যাচ্ছে ইউএস-বাংলা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/us-bangla-risingbd-20211006122346.jpg" class="img-fluid" alt="৯ নভেম্বর থেকে ঢাকা-মালে-ঢাকা রুটে সরাসরি ফ্লাইট শুরু করতে যাচ্ছে ইউএস-বাংলা" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6150,7 +6150,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/editorial/news/321467">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210520045014.jpg" class="img-fluid" alt="করোনাকালীন সাংবাদিকতা" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210520045014.jpg" class="img-fluid" alt="করোনাকালীন সাংবাদিকতা" />
             <div class="new-feature-lead-text">
             
             <h2>করোনাকালীন সাংবাদিকতা</h2>
@@ -6162,7 +6162,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/editorial/news/319870">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Photo-1Likee-Ramadan-Activity-Campaign-copy-20210422142427.jpg" class="img-fluid" alt="বিজয়ী জিতে নিতে পারবেন ৩ লাখ টাকা পুরষ্কার" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Photo-1Likee-Ramadan-Activity-Campaign-copy-20210422142427.jpg" class="img-fluid" alt="বিজয়ী জিতে নিতে পারবেন ৩ লাখ টাকা পুরষ্কার" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6175,7 +6175,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/editorial/news/328704">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/sahadat-hossain-20210814124402.jpg" class="img-fluid" alt="‍‍`পঁচাত্ত‌রের ১৫ আগস্ট‍‍` বাঙা‌লি জা‌তির সর্ব‌শ্রেষ্ঠ বি‌য়োগান্ত ঘটনা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/sahadat-hossain-20210814124402.jpg" class="img-fluid" alt="‍‍`পঁচাত্ত‌রের ১৫ আগস্ট‍‍` বাঙা‌লি জা‌তির সর্ব‌শ্রেষ্ঠ বি‌য়োগান্ত ঘটনা" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6188,7 +6188,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/editorial/news/323827">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210622130316.jpg" class="img-fluid" alt="উত্তেজিত করোনার তোপে পাঁচ ট্রেনে নিষেধাজ্ঞা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020October/SM/Untitled-1-copy-20210622130316.jpg" class="img-fluid" alt="উত্তেজিত করোনার তোপে পাঁচ ট্রেনে নিষেধাজ্ঞা" />
                 </div>
                 <div class="new-feature-news-right">
                 <span>খুলনাগামী ট্রেন চলবে যশোর পর্যন্ত</span>
@@ -6201,7 +6201,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/editorial/news/304299">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2020September/SM/Power-of-youth-20201006044323.jpg" class="img-fluid" alt="মেধাবী প্রজন্ম গড়ার প্রত্যয়" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2020September/SM/Power-of-youth-20201006044323.jpg" class="img-fluid" alt="মেধাবী প্রজন্ম গড়ার প্রত্যয়" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6233,7 +6233,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/religious-thoughts/news/343413">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(19)-20220228002100.jpeg" class="img-fluid" alt="পবিত্র লাইলাতুল মেরাজ আজ" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(19)-20220228002100.jpeg" class="img-fluid" alt="পবিত্র লাইলাতুল মেরাজ আজ" />
             <div class="new-feature-lead-text">
             
             <h2>পবিত্র লাইলাতুল মেরাজ আজ</h2>
@@ -6245,7 +6245,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/religious-thoughts/news/342988">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220222120152.jpg" class="img-fluid" alt="কোরআন হিফজ করল ৭ বছরের ওয়ারদা" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/-20220222120152.jpg" class="img-fluid" alt="কোরআন হিফজ করল ৭ বছরের ওয়ারদা" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6258,7 +6258,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/religious-thoughts/news/342749">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/3288537worlds-largest-Quran-200kg-gold-20220219150337.jpg" class="img-fluid" alt="তৈরি হচ্ছে স্বর্ণাক্ষরে লেখা সবচেয়ে বড় কোরআন" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/3288537worlds-largest-Quran-200kg-gold-20220219150337.jpg" class="img-fluid" alt="তৈরি হচ্ছে স্বর্ণাক্ষরে লেখা সবচেয়ে বড় কোরআন" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6271,7 +6271,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/religious-thoughts/news/342231">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-28-20220213142513.jpg" class="img-fluid" alt="দস্তরখানে খাবার খাওয়ার ফজিলত" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-28-20220213142513.jpg" class="img-fluid" alt="দস্তরখানে খাবার খাওয়ার ফজিলত" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6284,7 +6284,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/religious-thoughts/news/341843">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/mp-banaripara-copy-20220207064321.jpg" class="img-fluid" alt="হিন্দু-মুসলমান এক বৃন্তে দুটি ফুল: এমপি শাহে আলম" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/mp-banaripara-copy-20220207064321.jpg" class="img-fluid" alt="হিন্দু-মুসলমান এক বৃন্তে দুটি ফুল: এমপি শাহে আলম" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6305,7 +6305,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/literature/news/343164">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220224115148.jpg" class="img-fluid" alt="স্কুল পড়ুয়া দুই বোনের গল্প গ্রন্থ" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-12-20220224115148.jpg" class="img-fluid" alt="স্কুল পড়ুয়া দুই বোনের গল্প গ্রন্থ" />
             <div class="new-feature-lead-text">
             
             <h2>স্কুল পড়ুয়া দুই বোনের গল্প গ্রন্থ</h2>
@@ -6317,7 +6317,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/literature/news/343113">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/57ddae6fbec7187af71bf90e511d812f4410070a44d16939-20220223154532.jpg" class="img-fluid" alt="বইমেলায় নতুন বই ১২২টি" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/57ddae6fbec7187af71bf90e511d812f4410070a44d16939-20220223154532.jpg" class="img-fluid" alt="বইমেলায় নতুন বই ১২২টি" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6330,7 +6330,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/literature/news/343081">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220223120547.jpg" class="img-fluid" alt="আখতারুজ্জামান ইলিয়াসের পৃথিবী’ শীর্ষক আলোচনা শুক্রবার" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-11-20220223120547.jpg" class="img-fluid" alt="আখতারুজ্জামান ইলিয়াসের পৃথিবী’ শীর্ষক আলোচনা শুক্রবার" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6343,7 +6343,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/literature/news/342832">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-23-20220220133301.jpg" class="img-fluid" alt="২১ ফেব্রুয়ারি বইমেলা শুরু সকাল ৮টায়" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-23-20220220133301.jpg" class="img-fluid" alt="২১ ফেব্রুয়ারি বইমেলা শুরু সকাল ৮টায়" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6356,7 +6356,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/literature/news/342769">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(3)-20220220030730.jpeg" class="img-fluid" alt="চলে গেলেন একুশে পদকপ্রাপ্ত কবি কাজী রোজী" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(3)-20220220030730.jpeg" class="img-fluid" alt="চলে গেলেন একুশে পদকপ্রাপ্ত কবি কাজী রোজী" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6377,7 +6377,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/agriculture/news/343492">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-20-20220228133513.jpg" class="img-fluid" alt="খামারবাড়িতে সবজি মেলায় ভিড়, চলছে বেচাকেনা" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-20-20220228133513.jpg" class="img-fluid" alt="খামারবাড়িতে সবজি মেলায় ভিড়, চলছে বেচাকেনা" />
             <div class="new-feature-lead-text">
             
             <h2>খামারবাড়িতে সবজি মেলায় ভিড়, চলছে বেচাকেনা</h2>
@@ -6389,7 +6389,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/agriculture/news/343445">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220227181301-20220228101043.jpg" class="img-fluid" alt="রাণীশংকৈলে গমের কাঁচা গাছ কেটে বিক্রি,উৎপাদন ব্যাহতের শঙ্কা !" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/IMG20220227181301-20220228101043.jpg" class="img-fluid" alt="রাণীশংকৈলে গমের কাঁচা গাছ কেটে বিক্রি,উৎপাদন ব্যাহতের শঙ্কা !" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6402,7 +6402,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/agriculture/news/343163">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/prothomaloimportmedia201905219fcbbac7d2cce66f43115736fb56784b-5ce3bc3271d09-20220224115033.jpg" class="img-fluid" alt="৬.৫০ লাখ মেট্রিক টন বোরো ধান সংগ্রহ করবে সরকার" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/prothomaloimportmedia201905219fcbbac7d2cce66f43115736fb56784b-5ce3bc3271d09-20220224115033.jpg" class="img-fluid" alt="৬.৫০ লাখ মেট্রিক টন বোরো ধান সংগ্রহ করবে সরকার" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6415,7 +6415,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/agriculture/news/342788">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(1)-20220220095532.jpeg" class="img-fluid" alt="সূর্যমুখী ফুলের সৌন্দর্য দেখতে মানুষের ঢল" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/images-(1)-20220220095532.jpeg" class="img-fluid" alt="সূর্যমুখী ফুলের সৌন্দর্য দেখতে মানুষের ঢল" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6428,7 +6428,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/agriculture/news/342280">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Kurigram-Krishi-Guji-Til-Photo-(01)--140222-20220214100059.jpg" class="img-fluid" alt="কুড়িগ্রামে তিলের চাষ করে ভাগ্য বদল" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Kurigram-Krishi-Guji-Til-Photo-(01)--140222-20220214100059.jpg" class="img-fluid" alt="কুড়িগ্রামে তিলের চাষ করে ভাগ্য বদল" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6449,7 +6449,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
           
         <div class="new-feature-lead">
           <a href="https://www.ekusheysangbad.com/job-news/news/343475">
-            <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-copy-20220228125039.jpg" class="img-fluid" alt="এসিআই গ্রুপে চাকরির সুযোগ, আবেদন করুন এখনই" />
+            <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-7-copy-20220228125039.jpg" class="img-fluid" alt="এসিআই গ্রুপে চাকরির সুযোগ, আবেদন করুন এখনই" />
             <div class="new-feature-lead-text">
             
             <h2>এসিআই গ্রুপে চাকরির সুযোগ, আবেদন করুন এখনই</h2>
@@ -6461,7 +6461,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/job-news/news/343465">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-6-copy-20220228115210.jpg" class="img-fluid" alt="প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের অধীনে চাকরির সুযোগ" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-6-copy-20220228115210.jpg" class="img-fluid" alt="প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের অধীনে চাকরির সুযোগ" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6474,7 +6474,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/job-news/news/343455">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-copy-20220228111805.jpg" class="img-fluid" alt="বসুন্ধরা গ্রুপে চাকরির সুযোগ" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-5-copy-20220228111805.jpg" class="img-fluid" alt="বসুন্ধরা গ্রুপে চাকরির সুযোগ" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6487,7 +6487,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/job-news/news/343447">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-2-copy-20220228102319.jpg" class="img-fluid" alt="নিউজিল্যান্ড ডেইরিতে চাকরি" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-2-copy-20220228102319.jpg" class="img-fluid" alt="নিউজিল্যান্ড ডেইরিতে চাকরি" />
                 </div>
                 <div class="new-feature-news-right">
                 
@@ -6500,7 +6500,7 @@ c1.744-1.61,3.781-2.506,6.113-2.687c0-0.719-0.85-1.722-2.553-3.022h-13.434l-3.76
             <a href="https://www.ekusheysangbad.com/job-news/news/343366">
               <div class="new-feature-news-single">
                 <div class="new-feature-news-left">
-                  <img src="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-copy-20220227122101.jpg" class="img-fluid" alt="এটিএন নিউজে চাকরির সুযোগ" />
+                  <img src="{{url('/front/default_image.png')}}" data-original="https://www.ekusheysangbad.com/media/imgAll/2022January/SM/Untitled-4-copy-20220227122101.jpg" class="img-fluid" alt="এটিএন নিউজে চাকরির সুযোগ" />
                 </div>
                 <div class="new-feature-news-right">
                 

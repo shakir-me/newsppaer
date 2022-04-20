@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Str;
 use App\Models\Admin;
 class UserController extends Controller
 {
@@ -43,6 +44,8 @@ class UserController extends Controller
               $user->video_post =$request->video_post;
               $user->user =$request->user;
               $user->website =$request->website;
+              $user->slug =Str::slug($request->name);
+              $user->about =$request->about;
 
 
                  if($request->hasfile('image'))
@@ -95,6 +98,8 @@ class UserController extends Controller
         $user->video_post =$request->video_post;
         $user->user =$request->user;
         $user->website =$request->website;
+        $user->slug =Str::slug($request->name);
+        $user->about =$request->about;
 
           if($request->hasfile('image'))
         {

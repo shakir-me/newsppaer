@@ -29,8 +29,9 @@ class CreateSettingsTable extends Migration
             $table->string('twitter_link')->nullable();
             $table->string('instragram_link')->nullable();
             $table->string('image')->nullable();
-            $table->string('footer_one')->nullable();
-            $table->string('footer_two')->nullable();
+            $table->text('footer_one')->nullable();
+            $table->text('footer_two')->nullable();
+            $table->string('name')->nullable();
             $table->timestamps();
         });
     }

@@ -1,20 +1,48 @@
 <!DOCTYPE html>
 <html lang="bn">
+    
 
 <head>
+    @php
+        $seo = DB::table('seos')->first();
+    @endphp
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Most Popular Online News Portal </title>
-    <meta property="fb:pages" content="155949924558845,260657547728946,104571645009679" />
-    <link href="media/common/new-icon.png" rel="shortcut icon">
-    <link href="{{ asset('front/asset/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
+    
+     <meta property="og:url" content="@yield('url')">
+      <meta property="og:image" content="@yield( 'image',asset('admin/seo/' . $seo->image) )">
+      <meta property="og:description" content="@yield('desc','site description')">
+
+     @php
+        $setting = DB::table('settings')->first();
+    @endphp
+    <link rel="icon" type="image/x-icon" href="{{ asset('admin/setting/' . $setting->image) }}">
+    
+    
+    <title>@yield('title',$setting->name)</title>
+
+<style>
+    :root {
+    --primarycus: #802138;
+    --secondarycus: rgb(207, 85, 85);
+}
+</style>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css" integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
     <link href="{{ asset('front/asset/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('front/asset/css/bootsnav.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('front/asset/css/modern-megamenu.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('front/asset/css/modern-megamenu-responsive.css') }}" rel="stylesheet" type="text/css">
+
     <link href="{{ asset('front/asset/css/owl.carousel.min.css') }}" rel="stylesheet" type="text/css">
-    <link href="{{ asset('front/asset/css/nivo-slider.css') }}" rel="stylesheet" type="text/css">
+   
+  
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/nivo-slider.min.css" integrity="sha512-nabQX023kkkPP+H9ptetp5lK0CQ4rv6lG/slhMi5eONKfC1fI4lClHXubH6VP6PgXExycfzlAQHufX1oHMzUew==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
     <link href="{{ asset('front/asset/css/default.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('front/asset/css/style.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('front/asset/css/responsive.css') }}" rel="stylesheet" type="text/css">
@@ -32,11 +60,14 @@
         }
 
     </style>
+    
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=625e9a1d95f3d9001910a79a&product=inline-share-buttons' async='async'></script>
 </head>
 
 <body>
 
-
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0&appId=2944143205855394&autoLogAppEvents=1" nonce="2RuLOMHT"></script>
 
 
 
@@ -196,7 +227,7 @@
                                 'সোমবার',
                                 'মঙ্গলবার',
                                 '
-                                                                                                                                                                                                                                                                                                                                                                                                                        বুধবার',
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    বুধবার',
                                 'বৃহস্পতিবার',
                                 'শুক্রবার',
                             ];
@@ -330,22 +361,27 @@
                                         </span></a></li>
                                 @foreach ($menu as $cat)
                                     @if ($cat->slug != 'onzanz')
+                                        @php
+                                            $subcategory = DB::table('sub_categories')
+                                                ->where('category_id', $cat->id)
+                                                ->get();
+                                        @endphp
                                         <li class="dropdown">
                                             <a href="{{ url('/category') }}/{{ $cat->slug }}"
-                                                class="dropdown-toggle " data-toggle="dropdown"><span>
+                                                class="@if (count($subcategory) != 0) dropdown-toggle @endif"
+                                                data-toggle="@if (count($subcategory) != 0) dropdown @endif"><span>
                                                     {{ $cat->name }} </span></a>
-                                            <ul class="dropdown-menu megamenu-content">
-                                                @php
-                                                    $subcategory = DB::table('sub_categories')
-                                                        ->where('category_id', $cat->id)
-                                                        ->get();
-                                                @endphp
 
-                                                @foreach ($subcategory as $sub)
-                                                    <li><a href="{{ url('/subcategory') }}/{{ $sub->slug }}">{{ $sub->name }}
-                                                        </a></li>
-                                                @endforeach
-                                            </ul>
+                                            @if (count($subcategory) != 0)
+                                                <ul class="dropdown-menu megamenu-content">
+
+
+                                                    @foreach ($subcategory as $sub)
+                                                        <li><a href="{{ url('/subcategory') }}/{{ $sub->slug }}">{{ $sub->name }}
+                                                            </a></li>
+                                                    @endforeach
+                                                </ul>
+                                            @endif
                                         </li>
                                     @else
                                         @php
@@ -390,9 +426,9 @@
                             </ul>
                             <!--/.nav navbar-right-->
                         </div>
-                        <!--/.collapse navbox-collapse-->
-                        <!-- Start Atribute Navigation -->
-                        <div class="attr-nav">
+
+                        <div class="
+                                                attr-nav">
                             <ul>
                                 <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
                             </ul>
@@ -409,11 +445,11 @@
         <div class="top-search">
             <div class="container custom-container">
                 <div class="col-lg-3 col-md-12 col-12 top-search-secton">
-                    <form class="search-form" action="">
+                    <form class="search-form" action="{{ url('search') }}">
                         <div class="input-group">
                             <label for="search" class="sr-only"> অনুসন্ধান করুন </label>
 
-                            <input type="text" class="form-control" name="q" id="q" placeholder="অনুসন্ধান করুন">
+                            <input type="text" class="form-control" name="search" placeholder="অনুসন্ধান করুন">
                             <button class="input-group-addon" type="submit" name="button"><i
                                     class="fa fa-search"></i></button>
                             <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
@@ -444,8 +480,7 @@
                     <ul class="marquee">
                         @foreach ($heding_news as $heading)
                             <li><a href="{{ url('single', $heading->slug) }}"><span><img class="img-fluid"
-                                            src="{{ asset('front/icon.png') }}"
-                                            alt="{{ $heading->title }}"></span>
+                                            src="{{ asset('icon.gif') }}" alt="{{ $heading->title }}"></span>
                                     {{ $heading->title }}</a></li>
                         @endforeach
 
@@ -495,7 +530,28 @@
     <footer class="footer-new">
         <div class="container jagaran-container">
             <div class="row custom-row">
-                <div class="col-md-12 col-lg-8 custom-padding">
+
+
+
+
+                <div class="col-md-12 col-lg-4 custom-padding">
+                    <div class="contact-details">
+                        <ul class="footer-address-ul">
+                            {!! $setting->footer_one !!}
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-4 custom-padding">
+                    <div class="contact-details">
+                        <ul class="footer-address-ul">
+                            {!! $setting->footer_two !!}
+
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-12 col-lg-4 custom-padding">
                     <div class="contact-details">
                         <ul class="footer-address-ul">
                             <li>
@@ -546,11 +602,14 @@
                         <ul class="social-icon footer-icon footer-icon-2">
                             <li><a target="_blank" href="{{ $setting->facebook_link }}" class="facebook"><i
                                         class="fa fa-facebook"></i></a></li>
-                            <!-- <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li> -->
+                     
                             <li><a target="_blank" href="{{ $setting->youtube_link }}" class="youtube"><i
                                         class="fa fa-youtube"></i></a></li>
-                            <!-- <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li> -->
-                            <!-- <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li> -->
+                                        <li><a target="_blank" href="{{ $setting->twitter_link }}" class="youtube"><i
+                                                                     class="fa fa-twitter"></i></a></li>
+                                                       <li><a target="_blank" href="{{ $setting->instagram }}" class="youtube"><i
+                                                                     class="fa fa-instagram"></i></a></li>
+                           
                         </ul>
                         <!--/.social-icon-->
                     </div>
@@ -578,8 +637,9 @@
                 </div>
                 <div class="col-md-6 col-12">
                     <div class="design-link">
-                        <p>Design &amp; Developed by <a href="https://www.shahtechnology.net/" target="_blank">Shah
-                                Technology</a></p>
+                        <p>Design &amp; Developed by <a href="https://trustsoftbd.com/contact-us/" target="_blank">
+                                
+                                Trust Soft BD</a></p>
                     </div>
                 </div>
             </div>
@@ -591,25 +651,46 @@
 
 
     <!--===== JAVASCRIPT FILES =====-->
-    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script src="{{ asset('front/asset/js/jquery-2.1.4.min.js') }}"></script>
-    <script src="{{ asset('front/asset/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('front/asset/js/popper.min.js') }}"></script>
-    <script src="{{ asset('front/asset/js/modernizr.js') }}"> </script>
-    <script src="{{ asset('front/asset/js/bootsnav.js') }}"> </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" integrity="sha512-AFwxAkWdvxRd9qhYYp1qbeRZj6/iTNmJ2GFwcxsMOzwwTaRwz2a/2TX225Ebcj3whXte1WGQb38cXE5j7ZQw3g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js" integrity="sha512-jNDtFf7qgU0eH/+Z42FG4fw3w7DM/9zbgNPe3wfJlCylVDTT3IgKW5r92Vy9IHa6U50vyMz5gRByIu4YIXFtaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    $(document).ready(function(){
+        $('img').lazyload();
+    })
+</script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/js/bootstrap.min.js" integrity="sha512-8qmis31OQi6hIRgvkht0s6mCOittjMa9GMqtK9hes5iEQBQE/Ca6yGE5FsW36vyipGoWQswBj/QBm2JR086Rkw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.3.3/umd/popper.min.js" integrity="sha512-ET2VjqOvCOCo7OQIBbY/HSXcBZdQ4t5rMhyHZdwuro/FKgcbNGI9YB3adCM7tiwHNl14SFdU1/TrEM+odXzgAw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha512-3n19xznO0ubPpSwYCRRBgHh63DrV+bdZfHK52b1esvId4GsfwStQNPJFjeQos2h3JwCmZl0/LgLxSKMAI55hgw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="{{ asset('front/asset/js/bootsnav.js') }}"> </script>
     <script src="{{ asset('front/asset/js/modern-megamenu.js') }}"> </script>
-    <script src="{{ asset('front/asset/js/owl.carousel.min.js') }}"></script>
+
+    <script src="{{ asset('front/asset/js/owl.carousel.min.js') }}"> </script>
+
+
+
+   
+    
     <!--/. Main Slider -->
-    <script src="{{ asset('front/asset/js/jquery.nivo.slider.js') }}"></script>
-    <!--/. Main Slider -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/jquery.nivo.slider.min.js" integrity="sha512-rwjQKesPaeXWoFNcTVz8rPBqsU06+JhcsudIQfpUiOhxGHqymn9aSJpG7NPu4MZJ7V32Cq4YjT1qV5vVngYA1g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!--/. Main Slider -->
     <!--/. For JQUERY Marquery Text -->
-    <script src="{{ asset('front/asset/js/jquery.marquee.min.js') }}"></script>
+   
+
+    
     <script src="{{ asset('front/asset/js/jquery.pause.js') }}"></script>
+    <script src="{{ asset('front/asset/js/jquery.marquee.min.js') }}"></script>
+
     <script src="{{ asset('front/asset/js/custom.js') }}"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js" integrity="sha512-jNDtFf7qgU0eH/+Z42FG4fw3w7DM/9zbgNPe3wfJlCylVDTT3IgKW5r92Vy9IHa6U50vyMz5gRByIu4YIXFtaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script>
         $(document).ready(function() {
-
             /*-------------------------------------
                Fetuered Videos jQuery activation code
              -------------------------------------*/
@@ -749,11 +830,14 @@
 
         $('#home').addClass('active');
         $('#slickSlider').slick({
-            arrows: false,
+            arrows: true,
             dots: false,
             autoplay: true,
+            prevArrow: '<button class="slide-arrow prev-arrow"><img src="/front/left-arrow.png" width="30px" class="arrow-img" /></button>',
+    nextArrow: '<button class="slide-arrow next-arrow"><img src="/front/right-arrow.png" width="30px" class="arrow-img" /></button>'
         });
     </script>
+    
 
 
 </body>

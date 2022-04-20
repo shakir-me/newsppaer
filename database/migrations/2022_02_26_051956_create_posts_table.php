@@ -34,6 +34,9 @@ class CreatePostsTable extends Migration
             $table->string('four_section')->nullable();
             $table->string('five_section')->nullable();
             $table->string('view_count')->nullable();
+            $table->string('seo_title')->nullable();
+            $table->text('seo_desc')->nullable();
+            $table->text('seo_key')->nullable();
             $table->timestamps();
         });
     }

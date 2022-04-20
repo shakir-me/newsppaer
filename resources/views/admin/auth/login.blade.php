@@ -27,7 +27,7 @@
           <div class="col-lg-4 mx-auto">
             <div class="auth-form-light text-left py-5 px-4 px-sm-5">
               <div class="brand-logo">
-                <img src="{{url('admin/images/logo.svg')}}" alt="logo">
+                <!-- <img src="{{url('admin/images/logo.svg')}}" alt="logo"> -->
               </div>
 
 
@@ -60,7 +60,7 @@
                       Keep me signed in
                     </label>
                   </div> -->
-                  <a href="#" class="auth-link text-black">Forgot password?</a>
+                  <!-- <a href="#" class="auth-link text-black">Forgot password?</a> -->
                 </div>
     
         

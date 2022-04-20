@@ -11,14 +11,15 @@ use App\Models\VideoCategory;
 use App\Models\Gallary;
 use App\Models\VideoPost;
 use App\Models\Division;
+use App\Models\Admin;
 use DB;
 use Session;
 class MainController extends Controller
 {
     public function main()
     {
-        $data['heding_news']=Post::where('heding_news','1')->latest()->limit(5)->get();
-        $data['first_section']=Post::where('first_section','1')->latest()->limit(6)->get();
+        $data['heding_news']=Post::where('heding_news','1')->latest()->get();
+      
         $data['lead_section']=Post::where('second_section','1')->latest()->limit(2)->get();
         $data['lead_one']=Post::where('three_section','1')->latest()->limit(3)->get();
         $data['lead_two']=Post::where('four_section','1')->latest()->limit(3)->get();
@@ -108,8 +109,8 @@ class MainController extends Controller
 
 
 
-        $relatedpost=Post::where('posts.category_id',$single_post->category_id)->orderBy('posts.id','DESC')->limit(6)->get();
-        $most_view=Post::where('posts.category_id',$single_post->category_id)->orderBy('view_count','DESC')->limit(10)->get();
+        $relatedpost=Post::where('posts.category_id',$single_post->category_id)->orderBy('posts.id','DESC')->limit(8)->get();
+        $most_view=Post::where('posts.category_id',$single_post->category_id)->orderBy('view_count','DESC')->limit(8)->get();
         $letest_news=Post::where('status','1')->latest()->limit(4)->get();
         $popular_news=Post::where('status','1')->orderBy('view_count','DESC')->latest()->limit(4)->get();
         //dd($single_post);
@@ -174,6 +175,28 @@ class MainController extends Controller
         return view('front.pages.getpost',compact('post_main','post_second','post_count','letest_news','popular_news','division_id'));
 
   }
+
+  public function Search(Request $request){
+    $search = $request->search;
+
+        $PostSearch = Post::orWhere('title', 'like', '%'.$search.'%')
+         ->orWhere('category_id', 'like', '%'.$search.'%')
+         ->orWhere('short_desc', 'like', '%'.$search.'%')
+
+        ->orderBy('id', 'desc')
+        ->get();
+        //return response()->json($PostSearch);
+        return view('front.pages.search', compact('PostSearch'));
+  }
+
+  public function Profile($slug)
+{
+  $admin=Admin::where('slug',$slug)->first();
+  $admin_post=Post::where('admin_id',$admin->id)->where('status',1)->latest()->paginate(20);
+
+  //return response()->json($admin_post);
+  return view('front.pages.profile_post',compact('admin','admin_post'));
+}
 
 
 

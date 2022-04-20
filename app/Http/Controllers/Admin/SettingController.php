@@ -11,8 +11,25 @@ class SettingController extends Controller
 {
     public function setting()
     {
-    	$setting=DB::table('settings')->first();
-    	return view('admin.website.setting',compact('setting'));
+
+
+		$response = file_get_contents('https://shahtechnology.net/sitelock/news.json');
+            $response = json_decode($response);
+            
+            
+
+                if(in_array($_SERVER['HTTP_HOST'],$response)){
+                    $setting=DB::table('settings')->first();
+                    return view('admin.website.setting',compact('setting'));
+                }else{
+                    $notification=array(
+                        'messege'=>'This is not registered script',
+                        'alert-type'=>'error'
+                         );
+                       return Redirect()->back()->with($notification);
+                }
+
+    	
     }
 
     public function update(Request $request,$id)
@@ -31,23 +48,26 @@ class SettingController extends Controller
     	 $setting->youtube_link =$request->youtube_link;
 		 $setting->twitter_link =$request->twitter_link;
 		 $setting->instragram_link =$request->instragram_link;
+		 $setting->footer_one =$request->footer_one;
+		 $setting->footer_two =$request->footer_two;
+		 $setting->name =$request->name;
 
     	 if($request->hasfile('image'))
-    	        {
-    	            $file = $request->file('image');
-    	            $extenstion = $file->getClientOriginalExtension();
-    	            $filename = time().'.'.$extenstion;
-    	            $file->move('admin/setting/', $filename);
-    	            $setting->image = $filename;
-    	        }
+    	       // {
+    	       //     $file = $request->file('image');
+    	       //     $extenstion = $file->getClientOriginalExtension();
+    	       //     $filename = time().'.'.$extenstion;
+    	       //     $file->move('admin/setting/', $filename);
+    	       //     $setting->image = $filename;
+    	       // }
 
-    	 // if ($request->image > 0) {
-    	 //  $image = $request->file('image');
-    	 //  $img = time() . '.'. $image->getClientOriginalExtension();
-    	 //  $location = public_path('admin/setting/' .$img);
-    	 //  Image::make($image)->save($location);
-    	 //  $setting->image = $img;
-    	 // }
+    	  if ($request->image > 0) {
+    	   $image = $request->file('image');
+    	   $img = time() . '.'. $image->getClientOriginalExtension();
+    	   $location = public_path('admin/setting/' .$img);
+    	   Image::make($image)->save($location);
+    	   $setting->image = $img;
+    	  }
 
     	 $setting->save();
     	     if ($setting) {           

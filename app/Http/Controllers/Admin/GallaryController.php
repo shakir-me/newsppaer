@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Gallary;
 use Illuminate\Support\Str;
+use Image;
 class GallaryController extends Controller
 {
     	public function all()
@@ -33,15 +34,22 @@ class GallaryController extends Controller
               $gallary->first_section=$request->first_section;
               $gallary->second_section=$request->second_section;
               $gallary->slug =Str::slug($request->name);
+              if ($request->image > 0) {
+                       $image = $request->file('image');
+                       $img = time() . '.'. $image->getClientOriginalExtension();
+                       $location = public_path('admin/gallary/' .$img);
+                       Image::make($image)->save($location);
+                       $gallary->image = $img;
+                      }
 
-                if($request->hasfile('image'))
-              {
-                  $file = $request->file('image');
-                  $extenstion = $file->getClientOriginalExtension();
-                  $filename = time().'.'.$extenstion;
-                  $file->move('admin/gallary/', $filename);
-                  $gallary->image = $filename;
-              }
+            //     if($request->hasfile('image'))
+            //   {
+            //       $file = $request->file('image');
+            //       $extenstion = $file->getClientOriginalExtension();
+            //       $filename = time().'.'.$extenstion;
+            //       $file->move('admin/gallary/', $filename);
+            //       $gallary->image = $filename;
+            //   }
 
 
 
@@ -72,14 +80,14 @@ class GallaryController extends Controller
          $gallary->desc=$request->desc;
          $gallary->slug =Str::slug($request->name);
 
-           if($request->hasfile('image'))
-         {
-             $file = $request->file('image');
-             $extenstion = $file->getClientOriginalExtension();
-             $filename = time().'.'.$extenstion;
-             $file->move('admin/gallary/', $filename);
-             $gallary->image = $filename;
-         }
+        if ($request->image > 0) {
+    	   $image = $request->file('image');
+    	   $img = time() . '.'. $image->getClientOriginalExtension();
+    	   $location = public_path('admin/gallary/' .$img);
+    	   Image::make($image)->save($location);
+    	   $gallary->image = $img;
+    	  }
+
 
 
               $gallary->save();

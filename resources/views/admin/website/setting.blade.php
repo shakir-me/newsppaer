@@ -13,8 +13,16 @@
                              <form action="{{ route('update.setting', $setting->id) }}" method="post"
                                  class="forms-sample" enctype="multipart/form-data">
                                  @csrf
+
                                  <div class="form-group">
-                                     <label for="exampleInputName1">Title</label>
+                                     <label for="exampleInputName1">Site Name</label>
+                                     <input type="text" name="name" class="form-control" id="exampleInputName1"
+                                         value="{{ $setting->name }}">
+                                 </div>
+
+
+                                 <div class="form-group">
+                                     <label for="exampleInputName1">Title </label>
                                      <input type="text" name="title" class="form-control" id="exampleInputName1"
                                          value="{{ $setting->title }}">
                                  </div>
@@ -95,6 +103,22 @@
                                      <img id="logo" src="{{ asset('admin/setting/' . $setting->image) }}" width="50"
                                          height="50;" />
                                  </div>
+
+                                 <div class="form-group">
+                                     <label for="exampleSelectGender">Footer Section Two</label>
+                                     <textarea class="form-control" name="footer_one" id="summernote">
+                                        {!! $setting->footer_one !!}
+                                     </textarea>
+                                 </div>
+
+
+                                 <div class="form-group">
+                                     <label for="exampleSelectGender"> Footer Section Three</label>
+                                     <textarea class="form-control" name="footer_two" id="summernotetwo">
+                                        {!! $setting->footer_two !!}
+                                     </textarea>
+                                 </div>
+
 
 
                                  <button type="submit" class="btn btn-primary mr-2">Submit</button>

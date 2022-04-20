@@ -46,6 +46,22 @@
                     
                         </div>
 @php
+$admin=App\Models\Admin::get();
+@endphp
+                        <div class="form-group">
+                          <label for="exampleInputName1">Type Post</label>
+                          <select class="form-control" name="admin_id">
+                            <option value="">Selete Type Post</option>
+                            @foreach ($admin as $row)
+                              <option value="{{ $row->id }}">{{ $row->name }}</option>
+                              @endforeach
+
+                        
+                          </select>
+                        </div>
+
+
+@php
 $category=DB::table('categories')->where('status',1)->get();
 @endphp
                     <div class="form-group">
@@ -186,13 +202,31 @@ $division=DB::table('divisions')->get();
                                   </div>
                                 </div>
                               </div>
+</div>
+                         <h4>Seo </h4>
 
-                         
-                      
+
+
+                   <div class="form-group">
+                     <label for="exampleInputName1">Seo Title</label>
+                     <input type="text" name="seo_title" class="form-control" id="exampleInputName1" >
+                   </div>
+
+                       <div class="form-group">
+                         <label for="exampleSelectGender"> Seo  Description</label>
+                            <input type="text" name="seo_desc" class="form-control" id="exampleInputName1">
+                         </div>
+
+
+                         <div class="form-group">
+                           <label for="exampleSelectGender">Seo   Keyworks</label>
+                            
+                             <input type="text" name="seo_key" class="form-control" id="exampleInputName1" >
+                           </div>
                          
                          
 
-                      </div>
+                   
 
 
                      

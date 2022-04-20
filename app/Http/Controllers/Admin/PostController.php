@@ -11,9 +11,20 @@ use DB;
 use Image;
 class PostController extends Controller
 {
+
+  public function adminpostlist()
+  {
+      $adminpostlist=Post::latest()->get();
+      return view('admin.post.adminpostlist',compact('adminpostlist'));
+  }
+
+
+
     public function all()
     {
-        $post=Post::latest()->get();
+
+      $userid=Auth::guard('admin')->user()->id;
+      $post=Post::where('admin_id',$userid)->latest()->get();
     	return view('admin.post.index',compact('post'));
     }
 
@@ -67,20 +78,32 @@ class PostController extends Controller
         $post->status =$request->status;
         $post->view_count =0;
         $post->slug =Str::slug($request->title);
+        $post->admin_id =$request->admin_id;
+        $post->seo_title =$request->seo_title;
+        $post->seo_desc =$request->seo_desc;
+        $post->seo_key =$request->seo_key;
  
-        $current_user=Auth::guard('admin')->user();
-        $user_id=$current_user->id;
-        $post->admin_id=$user_id;
+        // $current_user=Auth::guard('admin')->user();
+        // $user_id=$current_user->id;
+        // $post->admin_id=$user_id;
         //dd($post);
 
-           if($request->hasfile('image'))
-         {
-             $file = $request->file('image');
-             $extenstion = $file->getClientOriginalExtension();
-             $filename = time().'.'.$extenstion;
-             $file->move('admin/post/', $filename);
-             $post->image = $filename;
-         }
+        //   if($request->hasfile('image'))
+        //  {
+        //      $file = $request->file('image');
+        //      $extenstion = $file->getClientOriginalExtension();
+        //      $filename = time().'.'.$extenstion;
+        //      $file->move('admin/post/', $filename);
+        //      $post->image = $filename;
+        //  }
+        
+           if ($request->image > 0) {
+    	   $image = $request->file('image');
+    	   $img = time() . '.'. $image->getClientOriginalExtension();
+    	   $location = public_path('admin/post/' .$img);
+    	   Image::make($image)->save($location);
+    	   $post->image = $img;
+    	  }
 
          //return response()->json($ads);
 
@@ -123,20 +146,33 @@ class PostController extends Controller
           $post->status =$request->status;
           $post->view_count =0;
           $post->slug =Str::slug($request->title);
+          $post->admin_id =$request->admin_id;
+          $post->seo_title =$request->seo_title;
+          $post->seo_desc =$request->seo_desc;
+          $post->seo_key =$request->seo_key;
        
-          $current_user=Auth::guard('admin')->user();
-          $user_id=$current_user->id;
-          $post->admin_id=$user_id;
+          // $current_user=Auth::guard('admin')->user();
+          // $user_id=$current_user->id;
+          // $post->admin_id=$user_id;
           //dd($post);
 
-             if($request->hasfile('image'))
-           {
-               $file = $request->file('image');
-               $extenstion = $file->getClientOriginalExtension();
-               $filename = time().'.'.$extenstion;
-               $file->move('admin/post/', $filename);
-               $post->image = $filename;
-           }
+        //      if($request->hasfile('image'))
+        //   {
+        //       $file = $request->file('image');
+        //       $extenstion = $file->getClientOriginalExtension();
+        //       $filename = time().'.'.$extenstion;
+        //       $file->move('admin/post/', $filename);
+        //       $post->image = $filename;
+        //   }
+        
+        
+          if ($request->image > 0) {
+    	   $image = $request->file('image');
+    	   $img = time() . '.'. $image->getClientOriginalExtension();
+    	   $location = public_path('admin/post/' .$img);
+    	   Image::make($image)->save($location);
+    	   $post->image = $img;
+    	  }
 
            //return response()->json($ads);
 

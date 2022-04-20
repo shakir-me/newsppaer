@@ -39,15 +39,24 @@ class AdsController extends Controller
               $ads->ads_eight =$request->ads_eight;
               $ads->ads_nine =$request->ads_nine;
               $ads->ads_ten =$request->ads_ten;
+              
+            if ($request->image > 0) {
+           $image = $request->file('image');
+           $img = time() . '.'. $image->getClientOriginalExtension();
+           $location = public_path('admin/ads/' .$img);
+           Image::make($image)->save($location);
+           $ads->image = $img;
+          }
 
-                 if($request->hasfile('image'))
-               {
-                   $file = $request->file('image');
-                   $extenstion = $file->getClientOriginalExtension();
-                   $filename = time().'.'.$extenstion;
-                   $file->move('admin/ads/', $filename);
-                   $ads->image = $filename;
-               }
+
+            //      if($request->hasfile('image'))
+            //   {
+            //       $file = $request->file('image');
+            //       $extenstion = $file->getClientOriginalExtension();
+            //       $filename = time().'.'.$extenstion;
+            //       $file->move('admin/ads/', $filename);
+            //       $ads->image = $filename;
+            //   }
 
                //return response()->json($ads);
 
@@ -90,15 +99,24 @@ class AdsController extends Controller
         $ads->ads_eight =$request->ads_eight;
         $ads->ads_nine =$request->ads_nine;
         $ads->ads_ten =$request->ads_ten;
+        
+          if ($request->image > 0) {
+           $image = $request->file('image');
+           $img = time() . '.'. $image->getClientOriginalExtension();
+           $location = public_path('admin/ads/' .$img);
+           Image::make($image)->save($location);
+           $ads->image = $img;
+          }
 
-          if($request->hasfile('image'))
-        {
-            $file = $request->file('image');
-            $extenstion = $file->getClientOriginalExtension();
-            $filename = time().'.'.$extenstion;
-            $file->move('admin/ads/', $filename);
-            $ads->image = $filename;
-        }
+
+        //   if($request->hasfile('image'))
+        // {
+        //     $file = $request->file('image');
+        //     $extenstion = $file->getClientOriginalExtension();
+        //     $filename = time().'.'.$extenstion;
+        //     $file->move('admin/ads/', $filename);
+        //     $ads->image = $filename;
+        // }
 
         
               $ads->save();

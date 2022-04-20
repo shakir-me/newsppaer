@@ -47,7 +47,7 @@
                           <a href="{{url('video',$row->slug)}}">
                             <div class="video-category-img">
                               <i class="fa fa-play"></i>
-                              <img src="{{asset('admin/video/'.$row->image) }}" class="img-fluid" alt="{{$row->title}}" title="{{$row->title}}" />                            </div>
+                              <img src="{{url('/front/default_image.png')}}" data-original="{{asset('admin/video/'.$row->image) }}" class="img-fluid" alt="{{$row->title}}" title="{{$row->title}}" />                            </div>
                             <div class="video-heading">
                               <h2> {{$row->title}} </h2>
                             </div>

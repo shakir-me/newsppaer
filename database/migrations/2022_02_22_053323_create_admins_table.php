@@ -29,6 +29,7 @@ class CreateAdminsTable extends Migration
             $table->string('video_post')->nullable();
             $table->string('user')->nullable();
             $table->string('website')->nullable();
+            $table->string('slug')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });

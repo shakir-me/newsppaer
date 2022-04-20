@@ -45,6 +45,23 @@
                        <img src="#" id="one" >
                     <img id="logo" src="{{asset('admin/post/'.$edit_post->image) }}" width="50" height="50;" />
                         </div>
+
+          @php
+          $admin=App\Models\Admin::get();
+          @endphp
+                      <div class="form-group">
+                        <label for="exampleInputName1">Type Post</label>
+                        <select class="form-control" name="admin_id">
+                          <option value="">Selete Type Post</option>
+                          @foreach ($admin as $row)
+                            <option value="{{ $row->id }}" {{ $row->id == $edit_post->admin_id ? 'selected' : '' }}>{{ $row->name }}</option>
+                            @endforeach
+
+                      
+                        </select>
+                      </div>
+
+                                                
 @php
 $category=DB::table('categories')->where('status',1)->get();
 @endphp
@@ -217,11 +234,31 @@ $distric=DB::table('districs')->get();
                               </div>
 
                          
-                      
-                         
-                         
-
                       </div>
+                         
+                             <h4>Seo </h4>
+
+
+
+                         <div class="form-group">
+                           <label for="exampleInputName1">Seo Title</label>
+                           <input type="text" name="seo_title" class="form-control" id="exampleInputName1" value="{{$edit_post->seo_title}}">
+                         </div>
+
+                             <div class="form-group">
+                               <label for="exampleSelectGender"> Seo  Description</label>
+                                  <input type="text" name="seo_desc" class="form-control" id="exampleInputName1" value="{{$edit_post->seo_desc}}">
+                               </div>
+
+
+                               <div class="form-group">
+                                 <label for="exampleSelectGender">Seo   Keyworks</label>
+                                  
+                                   <input type="text" name="seo_key" class="form-control" id="exampleInputName1" value="{{$edit_post->seo_key}}">
+                                 </div>
+                          
+
+                     
 
 
                      

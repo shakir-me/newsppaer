@@ -91,7 +91,7 @@
                     <div class="col-6 custom-padding">
                       <div class="most-read-single">
                         <a href="{{url('single',$row->slug)}}">
-                          <img src="{{asset('admin/post/'.$row->image) }}" class="img-fluid" alt="{{$row->title}}" />                        <div class="most-read-single-text">
+                          <img src="{{url('/front/default_image.png')}}" data-original="{{asset('admin/post/'.$row->image) }}" class="img-fluid" alt="{{$row->title}}" />                        <div class="most-read-single-text">
                             <span></span>
                             <h3>{{$row->title}}</h3>
                            </div>
@@ -122,7 +122,7 @@
                           <a href="{{url('single',$row->slug)}}">
                             <div class="latest-news-left">
                               <span>১</span>
-                              <img src="{{asset('admin/post/'.$row->image) }}" class="img-fluid" alt="{{$row->title}}" />
+                              <img src="{{url('/front/default_image.png')}}" data-original="{{asset('admin/post/'.$row->image) }}" class="img-fluid" alt="{{$row->title}}" />
                             </div>
                             <div class="latest-news-right">
                               <h3>{{$row->title}}</h3>
@@ -148,7 +148,7 @@
                           <a href="{{url('single',$row->slug)}}">
                             <div class="latest-news-left">
                               <span>১</span>
-                              <img src="{{asset('admin/post/'.$row->image) }}" class="img-fluid" alt="{{$row->title}} "/>
+                              <img src="{{url('/front/default_image.png')}}" data-original="{{asset('admin/post/'.$row->image) }}" class="img-fluid" alt="{{$row->title}} "/>
                             </div>
                             <div class="latest-news-right">
                               <h3>{{$row->title}} </h3>

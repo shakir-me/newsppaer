@@ -12,6 +12,7 @@ use App\Http\Controllers\Admin\AdsController;
 use App\Http\Controllers\Admin\UserController;
 use App\Http\Controllers\Admin\UpozilaController;
 use App\Http\Controllers\Admin\GallaryController;
+use App\Http\Controllers\Admin\SeoController;
 use App\Http\Controllers\Front\MainController;
 use Illuminate\Support\Facades\Route;
 
@@ -51,6 +52,10 @@ use Illuminate\Support\Facades\Route;
 
 
  Route::get('post/get', [MainController::class, 'PostDevision']);
+
+ Route::get('search', [MainController::class, 'Search']);
+
+ Route::get('profile/{slug}',[MainController::class,'Profile']);
 
   
 Route::get('/dashboard', function () {
@@ -120,6 +125,9 @@ require __DIR__.'/auth.php';
 
 
 // post route
+
+  Route::get('admin/post/list',[PostController::class,'adminpostlist'])->name('admin.post.list')->middleware('admin');
+
   Route::get('all/post',[PostController::class,'all'])->name('all.post')->middleware('admin');
   Route::get('add/post',[PostController::class,'add'])->name('add.post')->middleware('admin');
   Route::post('store/post',[PostController::class,'store'])->name('store.post')->middleware('admin');
@@ -185,3 +193,7 @@ require __DIR__.'/auth.php';
   //setting route
   Route::get('website/setting',[SettingController::class,'setting'])->name('website.setting')->middleware('admin');
   Route::post('update/setting/{id}',[SettingController::class,'update'])->name('update.setting')->middleware('admin');
+
+    //setting route
+  Route::get('seo/setting',[SeoController::class,'Seo'])->name('seo.setting')->middleware('admin');
+  Route::post('seo/update/setting/{id}',[SeoController::class,'SeoUpdate'])->name('seo.update.setting')->middleware('admin');

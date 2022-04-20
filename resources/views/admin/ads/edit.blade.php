@@ -64,7 +64,7 @@
                          <div class="form-group">
                            <div class="form-check">
                              <label class="form-check-label">
-                             	 <input type="checkbox" name="ads_two" value="1"<?php if($ads->ads_two==2)
+                             	 <input type="checkbox" name="ads_two" value="1"<?php if($ads->ads_two==1)
                                      {
                                        echo "checked";
                                         }?>>
@@ -78,7 +78,7 @@
                          <div class="form-group">
                            <div class="form-check">
                              <label class="form-check-label">
-                             		 <input type="checkbox" name="ads_three" value="1"<?php if($ads->ads_three==3)
+                             		 <input type="checkbox" name="ads_three" value="1"<?php if($ads->ads_three==1)
                              	        {
                              	          echo "checked";
                              	           }?>>
@@ -93,7 +93,7 @@
                            <div class="form-check">
                              <label class="form-check-label">
                               
-                               	 <input type="checkbox" name="ads_four" value="1"<?php if($ads->ads_four==4)
+                               	 <input type="checkbox" name="ads_four" value="1"<?php if($ads->ads_four==1)
                                        {
                                          echo "checked";
                                           }?>>
@@ -108,7 +108,7 @@
                              <label class="form-check-label">
                               
 
-                               	 <input type="checkbox" name="ads_five" value="1"<?php if($ads->ads_five==5)
+                               	 <input type="checkbox" name="ads_five" value="1"<?php if($ads->ads_five==1)
                                        {
                                          echo "checked";
                                           }?>>
@@ -124,7 +124,7 @@
                          <div class="form-group">
                            <div class="form-check">
                              <label class="form-check-label">
-                             		 <input type="checkbox" name="ads_six" value="1"<?php if($ads->ads_six==6)
+                             		 <input type="checkbox" name="ads_six" value="1"<?php if($ads->ads_six==1)
                              	        {
                              	          echo "checked";
                              	           }?>>
@@ -138,7 +138,7 @@
                          <div class="form-group">
                            <div class="form-check">
                              <label class="form-check-label">
-                             		 <input type="checkbox" name="ads_seven" value="1"<?php if($ads->ads_seven==7)
+                             		 <input type="checkbox" name="ads_seven" value="1"<?php if($ads->ads_seven==1)
                              	        {
                              	          echo "checked";
                              	           }?>>
@@ -152,7 +152,7 @@
                          <div class="form-group">
                            <div class="form-check">
                              <label class="form-check-label">
-                             		 <input type="checkbox" name="ads_eight" value="1"<?php if($ads->ads_eight==8)
+                             		 <input type="checkbox" name="ads_eight" value="1"<?php if($ads->ads_eight==1)
                              	        {
                              	          echo "checked";
                              	           }?>>
@@ -166,7 +166,7 @@
                          <div class="form-group">
                            <div class="form-check">
                              <label class="form-check-label">
-                             		 <input type="checkbox" name="ads_nine" value="1"<?php if($ads->ads_nine==9)
+                             		 <input type="checkbox" name="ads_nine" value="1"<?php if($ads->ads_nine==1)
                              	        {
                              	          echo "checked";
                              	           }?>>
@@ -180,7 +180,7 @@
                          <div class="form-group">
                            <div class="form-check">
                              <label class="form-check-label">
-                             		 <input type="checkbox" name="ads_ten" value="1"<?php if($ads->ads_ten==10)
+                             		 <input type="checkbox" name="ads_ten" value="1"<?php if($ads->ads_ten==1)
                              	        {
                              	          echo "checked";
                              	           }?>>
